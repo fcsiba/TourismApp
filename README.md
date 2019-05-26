@@ -8,7 +8,8 @@ Code has been made on R. This code computes similiarity matrix and outputs a lis
 
 In order to run this code: 
 1. Download R 
-2. R studio
-3. Install required packages (shiny widgets, shiny, pracma)
-4. run this on R studio
-5. click on "open in browser" on the top, to open the web app in your default browser.
+2. Download R studio
+3. Download this code
+4. Install required packages (shiny widgets, shiny, pracma)
+5. run this on R studio
+6. click on "open in browser" on the top, to open the web app in your default browser.
