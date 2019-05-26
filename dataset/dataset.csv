@@ -1,0 +1,1025 @@
+﻿Case,JourneyCode,HolidayType,Price,NumberOfPersons,Region,Transportation,Duration,Season,Accommodation,Hotel
+Mazar-e-Quid,1,Bathing,2498,2,Karachi,bus,14,April,TwoStars,Wandering Hotel
+Rani-bagh,2,Bathing,3066,3,Hyderabad,bus,21,May,TwoStars,Wandering Hotel
+Badshahi Mosque,3,Active,2778,2,Lahore,bus,14,June,TwoStars,Wandering Hotel
+Monal,4,Bathing,3195,3,Islamabad,bus,7,July,ThreeStars,PC Hotel
+Hanna Lake,5,Bathing,3158,2,Quetta,bus,14,September,ThreeStars,PC Hotel
+Bala Hashir Fort,6,Active,3318,2,peshawer,bus,14,October,ThreeStars,PC Hotel
+Hikin Places,7,Bathing,2458,2,gilgit,bus,14,June,FourStars,Move n pick Hotel
+cultral places,8,Active,2649,3,sanghar,bus,7,July,FourStars,Move n pick Hotel
+lalQila,9,Education,4638,2,mirpurkhas,bus,21,April,FourStars,Move n pick Hotel
+Moen-jo-daro,10,Education,3738,2,larkana,bus,14,October,FourStars,Move n pick Hotel
+food places,11,City,1978,2,nawabshah,bus,7,April,ThreeStars,PC Hotel
+Gorakh Hill,12,City,1898,2,dadu,bus,7,May,ThreeStars,PC Hotel
+naltar valley,13,City,2158,2,hunza,bus,14,June,ThreeStars,PC Hotel
+clothing market,14,City,1898,2,faisalabad,bus,7,September,ThreeStars,PC Hotel
+Fort Kohra Qasim,15,City,1154,1,Multan,bus,7,October,ThreeStars,PC Hotel
+Army Vehicles Exhibition,16,City,2308,2,Sialkot,bus,7,April,ThreeStars,PC Hotel
+Muzzaferabad,17,City,2658,2,kashmir,bus,7,May,ThreeStars,PC Hotel
+Umer-Marvi fort,18,City,1269,1,Umerkot,bus,14,July,ThreeStars,PC Hotel
+Cultural Heritage,19,City,2608,2,Badin,bus,7,May,FiveStars,Salt n Paper Hotel
+Mazar-e-Quid,20,City,2468,2,Karachi,bus,7,August,FiveStars,Salt n Paper Hotel
+Rani-bagh,21,Recreation,1568,2,Hyderabad,Car,14,May,TwoStars,Wandering Hotel
+Badshahi Mosque,22,Active,798,3,Lahore,Car,7,June,TwoStars,Wandering Hotel
+Monal,23,Recreation,978,3,Islamabad,Car,7,July,ThreeStars,PC Hotel
+Hanna Lake,24,Recreation,978,2,Quetta,Car,7,August,ThreeStars,PC Hotel
+lalQila,25,Active,1448,3,mirpurkhas,Car,14,September,HolidayFlat,Mini-Budget Hotel
+Moen-jo-daro,26,Recreation,1638,4,larkana,Car,14,June,HolidayFlat,Mini-Budget Hotel
+food places,27,Recreation,1079,4,nawabshah,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,28,Bathing,499,4,dadu,Car,3,August,HolidayFlat,Mini-Budget Hotel
+naltar valley,29,Bathing,399,6,hunza,Car,3,September,HolidayFlat,Mini-Budget Hotel
+clothing market,30,Recreation,1928,2,faisalabad,Train,14,July,ThreeStars,PC Hotel
+Muzzaferabad,31,Bathing,1598,2,kashmir,bus,14,June,TwoStars,Wandering Hotel
+Umer-Marvi fort,32,Bathing,2043,3,Umerkot,bus,14,July,TwoStars,Wandering Hotel
+Cultural Heritage,33,Bathing,1658,4,Badin,bus,7,August,TwoStars,Wandering Hotel
+Mazar-e-Quid,34,Bathing,1558,2,Karachi,bus,7,July,ThreeStars,PC Hotel
+Rani-bagh,35,Active,1718,2,Hyderabad,bus,14,June,ThreeStars,PC Hotel
+Badshahi Mosque,36,Bathing,1383,3,Lahore,bus,7,August,ThreeStars,PC Hotel
+Monal,37,Bathing,3628,4,Islamabad,bus,21,August,ThreeStars,PC Hotel
+Hanna Lake,38,Active,2739,3,Quetta,bus,14,July,FourStars,Move n pick Hotel
+lalQila,39,Bathing,2399,2,mirpurkhas,bus,14,September,FourStars,Move n pick Hotel
+Moen-jo-daro,40,Bathing,2273,3,larkana,Car,14,August,HolidayFlat,Mini-Budget Hotel
+food places,41,Bathing,1729,5,nawabshah,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,42,Bathing,1389,4,dadu,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Other,43,Recreation,968,6,Other,Car,14,April,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,44,Recreation,489,6,kashmir,Car,7,May,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,45,Recreation,489,6,Umerkot,Car,7,September,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,46,Bathing,2838,4,Badin,Car,14,July,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,47,Bathing,1399,6,Karachi,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,48,Recreation,958,6,Hyderabad,Car,14,September,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,49,Recreation,579,3,Lahore,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Monal,50,Recreation,789,5,Islamabad,Car,7,May,HolidayFlat,Mini-Budget Hotel
+Hanna Lake,51,Recreation,2839,10,Quetta,Car,7,July,HolidayFlat,Mini-Budget Hotel
+lalQila,52,Bathing,629,6,mirpurkhas,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Moen-jo-daro,53,Bathing,1598,4,larkana,Car,14,July,HolidayFlat,Mini-Budget Hotel
+food places,54,Recreation,429,8,nawabshah,Car,7,September,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,55,Recreation,648,2,dadu,Car,7,June,TwoStars,Wandering Hotel
+Other,56,Wandering,972,4,Other,Car,7,July,TwoStars,Wandering Hotel
+naltar valley,57,Recreation,1060,3,hunza,Car,7,August,ThreeStars,PC Hotel
+clothing market,58,Wandering,2110,3,faisalabad,Train,14,July,ThreeStars,PC Hotel
+Fort Kohra Qasim,59,Active,1835,2,Multan,Car,14,June,FiveStars,Salt n Paper Hotel
+Army Vehicles Exhibition,60,Wandering,951,2,Sialkot,Car,7,September,FiveStars,Salt n Paper Hotel
+Muzzaferabad,61,Recreation,794,4,kashmir,Train,7,August,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,62,Active,814,6,Umerkot,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,63,Wandering,1568,4,Badin,Car,14,June,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,64,Wandering,644,4,Karachi,Car,7,July,HolidayFlat,Mini-Budget Hotel
+lalQila,65,Recreation,648,2,mirpurkhas,Car,7,June,TwoStars,Wandering Hotel
+Moen-jo-daro,66,Wandering,2232,3,larkana,Car,14,July,TwoStars,Wandering Hotel
+food places,67,Recreation,2082,4,nawabshah,Car,7,August,ThreeStars,PC Hotel
+Gorakh Hill,68,Recreation,5185,3,dadu,Car,21,June,ThreeStars,PC Hotel
+Other,69,Active,2368,2,Other,Train,14,September,ThreeStars,PC Hotel
+naltar valley,70,Recreation,3758,2,hunza,Car,21,July,FourStars,Move n pick Hotel
+clothing market,71,Recreation,3135,3,faisalabad,Car,14,August,FourStars,Move n pick Hotel
+Fort Kohra Qasim,72,Wandering,3762,4,Multan,Car,14,July,FourStars,Move n pick Hotel
+Cultural Heritage,73,Recreation,1254,4,Badin,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,74,Recreation,814,6,Karachi,Train,7,August,HolidayFlat,Mini-Budget Hotel
+lalQila,75,Recreation,1361,2,mirpurkhas,Car,14,September,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,76,Recreation,1618,4,Hyderabad,Car,14,May,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,77,Recreation,1728,2,Lahore,Train,14,July,HolidayFlat,Mini-Budget Hotel
+Monal,78,Wandering,609,3,Islamabad,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Hanna Lake,79,Wandering,1069,6,Quetta,Car,7,August,HolidayFlat,Mini-Budget Hotel
+lalQila,80,Wandering,684,4,mirpurkhas,Car,7,September,HolidayFlat,Mini-Budget Hotel
+Moen-jo-daro,81,Active,1328,4,larkana,Train,14,May,HolidayFlat,Mini-Budget Hotel
+food places,82,Active,779,2,nawabshah,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,83,Active,1639,5,dadu,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Other,84,Wandering,944,8,Other,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,85,Wandering,758,2,kashmir,Car,7,June,TwoStars,Wandering Hotel
+Umer-Marvi fort,86,Wandering,758,3,Umerkot,Car,7,July,TwoStars,Wandering Hotel
+clothing market,87,Recreation,1885,4,faisalabad,Car,14,August,TwoStars,Wandering Hotel
+Fort Kohra Qasim,88,Recreation,758,3,Multan,Car,7,September,TwoStars,Wandering Hotel
+Other,89,Wandering,1828,2,Other,Car,14,May,ThreeStars,PC Hotel
+naltar valley,90,Wandering,918,2,hunza,Train,7,July,ThreeStars,PC Hotel
+clothing market,91,Wandering,2738,3,faisalabad,Car,21,June,ThreeStars,PC Hotel
+Fort Kohra Qasim,92,Recreation,1828,3,Multan,Car,14,September,ThreeStars,PC Hotel
+Cultural Heritage,93,Recreation,918,2,Badin,Car,7,May,ThreeStars,PC Hotel
+Mazar-e-Quid,94,Wandering,1580,4,Karachi,Train,7,August,FourStars,Move n pick Hotel
+lalQila,95,Wandering,958,2,mirpurkhas,Car,7,July,FourStars,Move n pick Hotel
+Mazar-e-Quid,96,Wandering,2385,3,Karachi,Car,14,June,FourStars,Move n pick Hotel
+Rani-bagh,97,Recreation,1372,3,Hyderabad,Car,7,August,FourStars,Move n pick Hotel
+Badshahi Mosque,98,Recreation,2188,2,Lahore,Car,14,September,FourStars,Move n pick Hotel
+Umer-Marvi fort,99,Active,1098,2,Umerkot,Car,7,August,FourStars,Move n pick Hotel
+Cultural Heritage,100,Recreation,478,2,Badin,Car,7,May,TwoStars,Wandering Hotel
+Mazar-e-Quid,101,Wandering,948,2,Karachi,Train,14,June,TwoStars,Wandering Hotel
+Rani-bagh,102,Recreation,1072,3,Hyderabad,Car,7,July,ThreeStars,PC Hotel
+Badshahi Mosque,103,Recreation,1501,4,Lahore,Car,7,August,ThreeStars,PC Hotel
+Monal,104,Recreation,1868,2,Islamabad,Car,14,September,ThreeStars,PC Hotel
+Hanna Lake,105,Wandering,1172,3,Quetta,Car,7,May,ThreeStars,PC Hotel
+lalQila,106,Recreation,1888,2,mirpurkhas,Car,7,June,FiveStars,Salt n Paper Hotel
+Moen-jo-daro,107,Recreation,1888,3,larkana,Train,7,July,FiveStars,Salt n Paper Hotel
+food places,108,Wandering,3768,2,nawabshah,Car,14,May,FiveStars,Salt n Paper Hotel
+Gorakh Hill,109,Recreation,484,2,dadu,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Other,110,Recreation,374,4,Other,Car,7,September,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,111,Recreation,589,3,kashmir,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,112,Wandering,719,4,Umerkot,Train,7,July,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,113,Wandering,1248,4,Badin,Car,14,August,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,114,Bathing,398,2,Karachi,Car,7,July,OneStar,OneStar
+Rani-bagh,115,Recreation,398,2,Hyderabad,Car,7,June,OneStar,OneStar
+Badshahi Mosque,116,Bathing,1348,3,Lahore,Car,7,July,TwoStars,Wandering Hotel
+Monal,117,Bathing,1348,2,Islamabad,Car,7,August,TwoStars,Wandering Hotel
+Hanna Lake,118,Recreation,3228,2,Quetta,Car,14,May,TwoStars,Wandering Hotel
+lalQila,119,Recreation,1618,2,mirpurkhas,Train,7,September,TwoStars,Wandering Hotel
+Moen-jo-daro,120,Bathing,719,4,larkana,Car,7,August,HolidayFlat,Mini-Budget Hotel
+food places,121,Bathing,669,6,nawabshah,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,122,Bathing,2108,4,Karachi,Car,14,August,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,123,Recreation,579,4,Hyderabad,Train,7,June,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,124,Recreation,664,5,Lahore,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Monal,125,Recreation,1138,4,Islamabad,Car,14,August,HolidayFlat,Mini-Budget Hotel
+Hanna Lake,126,Active,2198,3,Quetta,Car,14,September,HolidayFlat,Mini-Budget Hotel
+Bala Hashir Fort,127,Recreation,1044,6,peshawer,Train,7,June,HolidayFlat,Mini-Budget Hotel
+Hikin Places,128,Active,719,3,gilgit,Car,7,August,HolidayFlat,Mini-Budget Hotel
+cultral places,129,Bathing,1828,2,sanghar,Car,14,July,TwoStars,Wandering Hotel
+lalQila,130,Bathing,918,3,mirpurkhas,Car,7,August,TwoStars,Wandering Hotel
+Moen-jo-daro,131,Recreation,918,2,larkana,Car,7,June,TwoStars,Wandering Hotel
+food places,132,Recreation,1147,3,nawabshah,Train,7,September,TwoStars,Wandering Hotel
+Gorakh Hill,133,Bathing,1047,3,dadu,Car,7,July,ThreeStars,PC Hotel
+naltar valley,134,Bathing,2472,4,hunza,Car,14,August,ThreeStars,PC Hotel
+clothing market,135,Recreation,2226,3,faisalabad,Car,14,June,ThreeStars,PC Hotel
+Fort Kohra Qasim,136,Bathing,1438,2,Multan,Car,7,August,FourStars,Move n pick Hotel
+Army Vehicles Exhibition,137,Active,1797,3,Sialkot,Car,7,July,FourStars,Move n pick Hotel
+Muzzaferabad,138,Bathing,1044,4,kashmir,Train,7,August,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,139,Bathing,639,2,Umerkot,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,140,Bathing,1818,2,Badin,Car,14,July,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,141,Recreation,539,4,Karachi,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,142,Recreation,709,6,Hyderabad,Car,7,May,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,143,Active,994,4,Lahore,Train,14,July,HolidayFlat,Mini-Budget Hotel
+Monal,144,Wandering,547,3,Islamabad,Car,7,May,TwoStars,Wandering Hotel
+Hanna Lake,145,Recreation,868,2,Quetta,Car,14,June,TwoStars,Wandering Hotel
+lalQila,146,Wandering,907,3,mirpurkhas,Car,7,July,ThreeStars,PC Hotel
+Moen-jo-daro,147,Wandering,698,2,larkana,Car,14,August,ThreeStars,PC Hotel
+food places,148,Wandering,738,2,nawabshah,Train,7,September,ThreeStars,PC Hotel
+Gorakh Hill,149,Recreation,922,3,dadu,Car,7,August,ThreeStars,PC Hotel
+naltar valley,150,Wandering,3732,4,hunza,Car,14,July,FourStars,Move n pick Hotel
+clothing market,151,Recreation,1138,2,faisalabad,Car,7,June,FourStars,Move n pick Hotel
+Muzzaferabad,152,Wandering,449,2,kashmir,Train,7,May,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,153,Wandering,459,5,Umerkot,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,154,Wandering,1039,3,Badin,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,155,Wandering,2538,3,Karachi,Car,14,August,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,156,Recreation,1313,2,Hyderabad,Car,14,September,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,157,Recreation,904,6,Lahore,Car,7,October,HolidayFlat,Mini-Budget Hotel
+Monal,158,Recreation,984,7,Islamabad,Train,7,July,HolidayFlat,Mini-Budget Hotel
+Hanna Lake,159,Recreation,638,2,Quetta,Car,7,May,ThreeStars,PC Hotel
+lalQila,160,Recreation,922,3,mirpurkhas,Car,7,August,ThreeStars,PC Hotel
+Moen-jo-daro,161,Active,998,2,larkana,Car,7,June,ThreeStars,PC Hotel
+food places,162,Wandering,2588,3,nawabshah,Car,14,July,ThreeStars,PC Hotel
+Gorakh Hill,163,Wandering,1377,4,dadu,Train,7,August,FourStars,Move n pick Hotel
+Other,164,Recreation,918,2,Other,Car,7,September,FourStars,Move n pick Hotel
+Muzzaferabad,165,Active,2285,3,kashmir,Car,14,August,FourStars,Move n pick Hotel
+Umer-Marvi fort,166,Recreation,2668,2,Umerkot,Car,14,October,FourStars,Move n pick Hotel
+Cultural Heritage,167,Active,1497,3,Badin,Car,7,August,FourStars,Move n pick Hotel
+Mazar-e-Quid,168,Active,2388,3,Karachi,Car,14,August,FourStars,Move n pick Hotel
+Rani-bagh,169,Recreation,589,4,Hyderabad,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,170,Recreation,1128,4,Lahore,Train,14,June,HolidayFlat,Mini-Budget Hotel
+Monal,171,Recreation,589,4,Islamabad,Car,7,May,HolidayFlat,Mini-Budget Hotel
+Hanna Lake,172,Recreation,1148,4,Quetta,Car,14,July,HolidayFlat,Mini-Budget Hotel
+food places,173,Wandering,574,4,nawabshah,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,174,Bathing,858,4,dadu,Car,14,May,HolidayFlat,Mini-Budget Hotel
+Other,175,Bathing,2078,4,Other,Car,14,June,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,176,Bathing,4718,7,kashmir,Car,14,July,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,177,Bathing,1698,4,Umerkot,Car,14,August,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,178,Bathing,649,6,Badin,Car,7,September,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,179,Bathing,394,3,Karachi,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,180,Bathing,1289,5,Hyderabad,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,181,Bathing,879,4,kashmir,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,182,Bathing,1347,3,Umerkot,Car,21,May,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,183,Active,838,5,Badin,Car,14,June,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,184,Active,1938,6,Karachi,Car,14,July,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,185,Active,849,6,Hyderabad,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,186,Active,1204,8,Lahore,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Monal,187,Recreation,2878,8,Islamabad,Car,14,July,HolidayFlat,Mini-Budget Hotel
+Hanna Lake,188,Recreation,2187,2,Quetta,Car,21,August,HolidayFlat,Mini-Budget Hotel
+food places,189,Bathing,519,2,nawabshah,Car,7,April,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,190,Bathing,479,3,dadu,Car,7,May,HolidayFlat,Mini-Budget Hotel
+Other,191,Bathing,829,7,Other,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,192,Bathing,1089,5,kashmir,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,193,Bathing,1029,5,Umerkot,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,194,Bathing,799,6,dadu,Car,7,September,HolidayFlat,Mini-Budget Hotel
+Other,195,Bathing,449,4,Other,Train,7,October,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,196,Bathing,1198,4,kashmir,Car,14,May,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,197,Bathing,1108,4,Umerkot,Train,14,June,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,198,Bathing,4458,7,Badin,Car,14,July,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,199,Active,2678,3,Karachi,Car,14,August,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,200,Active,1598,4,Hyderabad,Car,14,September,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,201,Active,589,6,kashmir,Car,7,May,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,202,Recreation,449,2,Umerkot,Train,7,June,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,203,Recreation,1838,3,Badin,Car,14,July,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,204,Bathing,1539,2,Karachi,bus,14,May,OneStar,OneStar
+Rani-bagh,205,Bathing,2469,3,Hyderabad,bus,14,June,OneStar,OneStar
+Badshahi Mosque,206,Bathing,5269,4,Lahore,bus,14,July,TwoStars,Wandering Hotel
+Monal,207,Bathing,2249,3,Islamabad,bus,21,June,TwoStars,Wandering Hotel
+Hanna Lake,208,Bathing,1898,2,Quetta,bus,7,August,TwoStars,Wandering Hotel
+food places,209,Bathing,3522,4,nawabshah,bus,7,July,TwoStars,Wandering Hotel
+Muzzaferabad,210,Bathing,3459,3,kashmir,bus,14,August,ThreeStars,PC Hotel
+Umer-Marvi fort,211,Bathing,2539,2,Umerkot,bus,14,September,ThreeStars,PC Hotel
+Gorakh Hill,212,Bathing,5659,3,dadu,bus,21,July,ThreeStars,PC Hotel
+Other,213,Bathing,3298,2,Other,bus,14,June,ThreeStars,PC Hotel
+Muzzaferabad,214,Active,2718,2,kashmir,bus,14,September,ThreeStars,PC Hotel
+Umer-Marvi fort,215,Active,5678,3,Umerkot,bus,21,August,ThreeStars,PC Hotel
+Cultural Heritage,216,Active,2038,2,Badin,bus,14,June,TwoStars,Wandering Hotel
+Mazar-e-Quid,217,Wandering,634,1,Karachi,bus,7,April,TwoStars,Wandering Hotel
+Rani-bagh,218,Wandering,2578,2,Hyderabad,bus,14,May,ThreeStars,PC Hotel
+Muzzaferabad,219,Bathing,659,4,kashmir,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,220,Bathing,709,2,Umerkot,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,221,Active,809,4,Badin,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,222,Active,1418,2,Karachi,Car,14,August,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,223,Recreation,1618,4,Hyderabad,Car,14,July,HolidayFlat,Mini-Budget Hotel
+lalQila,224,Bathing,689,4,mirpurkhas,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Moen-jo-daro,225,Bathing,1549,7,larkana,Car,7,July,HolidayFlat,Mini-Budget Hotel
+food places,226,Bathing,1064,5,nawabshah,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,227,Bathing,519,4,Karachi,Car,7,September,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,228,Active,1219,6,Hyderabad,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,229,Active,889,4,Lahore,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Monal,230,Active,1268,4,Islamabad,Car,14,June,HolidayFlat,Mini-Budget Hotel
+Hanna Lake,231,Recreation,2108,5,Quetta,Car,14,July,HolidayFlat,Mini-Budget Hotel
+Bala Hashir Fort,232,Recreation,1258,4,peshawer,Car,14,August,HolidayFlat,Mini-Budget Hotel
+Hikin Places,233,Recreation,1797,4,gilgit,Car,21,June,HolidayFlat,Mini-Budget Hotel
+cultral places,234,Bathing,3485,3,sanghar,bus,14,May,FourStars,Move n pick Hotel
+lalQila,235,Bathing,2038,2,mirpurkhas,bus,14,April,TwoStars,Wandering Hotel
+Moen-jo-daro,236,Bathing,3129,4,larkana,bus,7,September,ThreeStars,PC Hotel
+food places,237,Bathing,2518,2,nawabshah,bus,14,June,ThreeStars,PC Hotel
+Gorakh Hill,238,Bathing,3215,3,dadu,bus,14,July,ThreeStars,PC Hotel
+naltar valley,239,Bathing,4002,3,hunza,bus,21,September,FourStars,Move n pick Hotel
+clothing market,240,Bathing,3216,4,faisalabad,bus,7,August,ThreeStars,PC Hotel
+Fort Kohra Qasim,241,Bathing,1149,1,Multan,bus,14,June,TwoStars,Wandering Hotel
+Army Vehicles Exhibition,242,Bathing,3658,2,Sialkot,bus,14,July,FourStars,Move n pick Hotel
+Mazar-e-Quid,243,Bathing,3458,2,Karachi,bus,21,August,ThreeStars,PC Hotel
+Rani-bagh,244,Bathing,2742,3,Hyderabad,bus,14,July,TwoStars,Wandering Hotel
+Badshahi Mosque,245,Recreation,2258,2,Lahore,bus,7,June,FourStars,Move n pick Hotel
+Monal,246,Recreation,1169,1,Islamabad,bus,14,September,ThreeStars,PC Hotel
+Hanna Lake,247,Recreation,3215,3,Quetta,bus,14,August,ThreeStars,PC Hotel
+food places,248,Recreation,3378,2,nawabshah,bus,21,May,FourStars,Move n pick Hotel
+Gorakh Hill,249,Bathing,2787,3,dadu,bus,14,July,TwoStars,Wandering Hotel
+Other,250,Bathing,4673,4,Other,bus,14,August,ThreeStars,PC Hotel
+Muzzaferabad,251,Bathing,2898,2,kashmir,bus,21,September,ThreeStars,PC Hotel
+Umer-Marvi fort,252,Bathing,2538,2,Umerkot,bus,14,June,ThreeStars,PC Hotel
+Gorakh Hill,253,Bathing,2427,3,dadu,bus,7,July,ThreeStars,PC Hotel
+Other,254,Recreation,2358,2,Other,bus,14,May,ThreeStars,PC Hotel
+Muzzaferabad,255,Recreation,2898,2,kashmir,bus,21,September,ThreeStars,PC Hotel
+Umer-Marvi fort,256,Recreation,2398,2,Umerkot,bus,14,June,ThreeStars,PC Hotel
+Mazar-e-Quid,257,Active,3718,3,Karachi,bus,14,July,FourStars,Move n pick Hotel
+Rani-bagh,258,Active,3299,3,Hyderabad,bus,7,August,FourStars,Move n pick Hotel
+Badshahi Mosque,259,Active,3318,2,Lahore,bus,14,June,FourStars,Move n pick Hotel
+Monal,260,Recreation,5329,4,Islamabad,bus,14,July,FourStars,Move n pick Hotel
+Hanna Lake,261,Recreation,3258,2,Quetta,bus,21,May,FourStars,Move n pick Hotel
+Bala Hashir Fort,262,Recreation,3038,2,peshawer,bus,14,September,FourStars,Move n pick Hotel
+Hikin Places,263,Education,2738,2,gilgit,bus,21,October,FourStars,Move n pick Hotel
+cultral places,264,Bathing,2831,3,sanghar,bus,14,June,TwoStars,Wandering Hotel
+lalQila,265,Bathing,3644,4,mirpurkhas,bus,14,July,TwoStars,Wandering Hotel
+Moen-jo-daro,266,Bathing,3258,2,larkana,bus,21,September,ThreeStars,PC Hotel
+food places,267,Bathing,3793,3,nawabshah,bus,14,August,ThreeStars,PC Hotel
+Gorakh Hill,268,Bathing,2779,3,dadu,bus,7,August,ThreeStars,PC Hotel
+naltar valley,269,Bathing,2698,2,hunza,bus,14,June,ThreeStars,PC Hotel
+clothing market,270,Bathing,3649,3,faisalabad,bus,21,September,ThreeStars,PC Hotel
+Fort Kohra Qasim,271,Bathing,3078,2,Multan,bus,14,July,ThreeStars,PC Hotel
+Army Vehicles Exhibition,272,Bathing,3198,2,Sialkot,bus,14,September,ThreeStars,PC Hotel
+Mazar-e-Quid,273,Active,3758,2,Karachi,bus,21,June,ThreeStars,PC Hotel
+Rani-bagh,274,Active,3198,3,Hyderabad,bus,14,August,ThreeStars,PC Hotel
+Badshahi Mosque,275,Active,2158,2,Lahore,bus,7,July,FourStars,Move n pick Hotel
+Monal,276,Recreation,3418,2,Islamabad,bus,21,June,FourStars,Move n pick Hotel
+Hanna Lake,277,Recreation,3038,2,Quetta,bus,14,September,FourStars,Move n pick Hotel
+food places,278,Recreation,2043,3,nawabshah,bus,7,May,FourStars,Move n pick Hotel
+Muzzaferabad,279,Bathing,2498,2,kashmir,bus,14,June,TwoStars,Wandering Hotel
+Umer-Marvi fort,280,Bathing,2417,3,Umerkot,bus,14,July,TwoStars,Wandering Hotel
+Gorakh Hill,281,Active,2825,4,dadu,bus,7,August,TwoStars,Wandering Hotel
+Other,282,Bathing,3498,2,Other,bus,14,September,ThreeStars,PC Hotel
+Muzzaferabad,283,Bathing,4198,2,kashmir,bus,21,June,ThreeStars,PC Hotel
+Umer-Marvi fort,284,Bathing,3847,3,Umerkot,bus,14,August,ThreeStars,PC Hotel
+Muzzaferabad,285,Bathing,3175,4,kashmir,bus,7,July,ThreeStars,PC Hotel
+Umer-Marvi fort,286,Active,3038,2,Umerkot,bus,14,September,ThreeStars,PC Hotel
+Cultural Heritage,287,Active,2758,2,Badin,bus,14,June,ThreeStars,PC Hotel
+Mazar-e-Quid,288,Bathing,3198,2,Karachi,bus,14,June,FourStars,Move n pick Hotel
+Rani-bagh,289,Bathing,2298,2,Hyderabad,bus,7,May,FourStars,Move n pick Hotel
+Badshahi Mosque,290,Bathing,6609,3,Lahore,bus,21,July,FourStars,Move n pick Hotel
+Monal,291,Active,4068,3,Islamabad,bus,14,August,FourStars,Move n pick Hotel
+Hanna Lake,292,Active,4463,3,Quetta,bus,21,June,FourStars,Move n pick Hotel
+food places,293,Education,3038,2,nawabshah,bus,14,May,FourStars,Move n pick Hotel
+Gorakh Hill,294,Bathing,2263,3,dadu,bus,14,May,TwoStars,Wandering Hotel
+Other,295,Bathing,2428,2,Other,bus,21,June,TwoStars,Wandering Hotel
+Muzzaferabad,296,Bathing,2263,3,kashmir,bus,7,July,ThreeStars,PC Hotel
+Other,297,Bathing,3553,4,Other,bus,14,August,ThreeStars,PC Hotel
+Muzzaferabad,298,Bathing,2791,3,kashmir,bus,14,July,ThreeStars,PC Hotel
+Umer-Marvi fort,299,Recreation,1968,2,Umerkot,bus,7,May,ThreeStars,PC Hotel
+Cultural Heritage,300,Active,2758,2,Badin,bus,14,June,ThreeStars,PC Hotel
+Mazar-e-Quid,301,Active,4364,3,Karachi,bus,21,July,ThreeStars,PC Hotel
+Rani-bagh,302,Education,2478,2,Hyderabad,bus,14,October,ThreeStars,PC Hotel
+Muzzaferabad,303,Bathing,3869,3,kashmir,bus,14,July,FourStars,Move n pick Hotel
+Umer-Marvi fort,304,Bathing,3958,2,Umerkot,bus,21,September,FourStars,Move n pick Hotel
+Cultural Heritage,305,Bathing,4925,4,Badin,bus,14,August,FourStars,Move n pick Hotel
+Mazar-e-Quid,306,Active,3498,2,Karachi,bus,14,July,FourStars,Move n pick Hotel
+Rani-bagh,307,Recreation,2298,2,Hyderabad,bus,7,June,FourStars,Move n pick Hotel
+lalQila,308,Education,3098,2,mirpurkhas,bus,14,September,FourStars,Move n pick Hotel
+Moen-jo-daro,309,Education,2068,4,larkana,Car,14,June,HolidayFlat,Mini-Budget Hotel
+food places,310,Language,3582,6,nawabshah,Car,21,July,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,311,Language,2398,8,Karachi,Car,14,August,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,312,Recreation,2298,7,Hyderabad,Car,14,September,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,313,Recreation,3297,6,Lahore,Car,21,July,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,314,Education,3208,8,Umerkot,Car,14,August,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,315,Language,2592,6,Badin,Car,21,June,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,316,Language,2048,7,Karachi,Car,14,July,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,317,Recreation,2388,4,Hyderabad,Car,14,August,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,318,Recreation,2457,8,Lahore,Car,21,September,HolidayFlat,Mini-Budget Hotel
+Monal,319,Education,2458,3,Islamabad,Car,14,June,HolidayFlat,Mini-Budget Hotel
+Hanna Lake,320,Language,3282,2,Quetta,Car,21,July,HolidayFlat,Mini-Budget Hotel
+food places,321,Language,3878,6,nawabshah,Car,14,August,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,322,Recreation,2738,2,dadu,Car,14,September,HolidayFlat,Mini-Budget Hotel
+Other,323,Recreation,2248,2,Other,Car,21,July,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,324,Education,1808,5,kashmir,Car,14,June,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,325,Language,3732,5,Umerkot,Car,21,July,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,326,Language,2628,6,dadu,Car,14,August,HolidayFlat,Mini-Budget Hotel
+Other,327,Recreation,1888,6,Other,Car,14,September,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,328,Recreation,3297,6,kashmir,Car,21,July,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,329,Bathing,1408,6,Umerkot,Car,14,June,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,330,Bathing,649,5,Badin,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,331,Bathing,1478,3,Hyderabad,Car,14,August,HolidayFlat,Mini-Budget Hotel
+lalQila,332,Active,1598,4,mirpurkhas,Car,14,July,HolidayFlat,Mini-Budget Hotel
+Moen-jo-daro,333,Recreation,559,6,larkana,Train,7,August,HolidayFlat,Mini-Budget Hotel
+food places,334,Recreation,1198,3,nawabshah,Train,14,September,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,335,Active,514,5,Karachi,Coach,7,June,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,336,Bathing,474,5,Hyderabad,Car,3,June,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,337,Bathing,539,4,Lahore,Car,3,May,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,338,Bathing,329,6,Umerkot,Car,3,June,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,339,Active,3280,4,Badin,Car,14,April,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,340,Active,790,2,Karachi,Train,7,May,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,341,Active,2620,4,Hyderabad,Train,14,June,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,342,Active,1900,5,Lahore,Train,14,October,HolidayFlat,Mini-Budget Hotel
+Monal,343,Recreation,2760,4,Islamabad,Train,14,July,HolidayFlat,Mini-Budget Hotel
+Hanna Lake,344,Recreation,1580,6,Quetta,Coach,7,August,HolidayFlat,Mini-Budget Hotel
+food places,345,Recreation,2468,2,nawabshah,Coach,14,September,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,346,Recreation,2780,4,dadu,Coach,14,July,HolidayFlat,Mini-Budget Hotel
+Other,347,Recreation,485,2,Other,Coach,3,May,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,348,Recreation,735,4,kashmir,Coach,4,June,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,349,Recreation,705,6,Umerkot,Coach,3,September,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,350,Bathing,1438,2,dadu,Car,14,June,TwoStars,Wandering Hotel
+Gorakh Hill,351,Bathing,1375,3,dadu,Car,7,July,TwoStars,Wandering Hotel
+Other,352,Bathing,1547,4,Other,Car,14,August,TwoStars,Wandering Hotel
+Muzzaferabad,353,Bathing,1238,2,kashmir,Car,14,September,TwoStars,Wandering Hotel
+Other,354,Bathing,2311,3,Other,Car,14,August,TwoStars,Wandering Hotel
+Muzzaferabad,355,Active,1193,3,kashmir,Car,7,July,TwoStars,Wandering Hotel
+Umer-Marvi fort,356,Recreation,1758,2,Umerkot,Car,21,May,TwoStars,Wandering Hotel
+Cultural Heritage,357,Bathing,1678,2,Badin,Car,14,July,ThreeStars,PC Hotel
+Mazar-e-Quid,358,Bathing,1349,4,Karachi,Car,7,August,ThreeStars,PC Hotel
+Rani-bagh,359,Recreation,1278,2,Hyderabad,Car,14,June,ThreeStars,PC Hotel
+Muzzaferabad,360,Bathing,679,6,kashmir,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,361,Bathing,699,4,Umerkot,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,362,Bathing,1139,5,Badin,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,363,Bathing,439,6,Karachi,Car,14,September,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,364,Bathing,598,2,Hyderabad,Car,14,May,HolidayFlat,Mini-Budget Hotel
+lalQila,365,Bathing,1538,3,mirpurkhas,Car,14,July,HolidayFlat,Mini-Budget Hotel
+Moen-jo-daro,366,Active,998,4,larkana,Car,14,June,HolidayFlat,Mini-Budget Hotel
+food places,367,Active,1359,8,nawabshah,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,368,Recreation,798,3,Karachi,Car,14,September,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,369,Recreation,399,6,Hyderabad,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,370,Recreation,1608,2,Lahore,Car,14,May,TwoStars,Wandering Hotel
+Umer-Marvi fort,371,Recreation,1838,2,Umerkot,Car,14,June,TwoStars,Wandering Hotel
+Cultural Heritage,372,Recreation,1593,4,Badin,Car,7,July,TwoStars,Wandering Hotel
+Mazar-e-Quid,373,Bathing,2897,3,Karachi,Car,14,August,ThreeStars,PC Hotel
+Rani-bagh,374,Active,1098,2,Hyderabad,Car,7,September,ThreeStars,PC Hotel
+Badshahi Mosque,375,Active,2897,3,Lahore,Car,14,June,ThreeStars,PC Hotel
+Monal,376,Wandering,5497,3,Islamabad,Car,21,July,ThreeStars,PC Hotel
+Hanna Lake,377,Recreation,2118,2,Quetta,Car,14,September,FourStars,Move n pick Hotel
+food places,378,Recreation,3138,2,nawabshah,Car,21,May,FourStars,Move n pick Hotel
+Gorakh Hill,379,Wandering,3678,3,dadu,Car,14,July,FourStars,Move n pick Hotel
+Other,380,Recreation,798,4,Other,Car,14,May,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,381,Recreation,1398,5,kashmir,Car,14,June,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,382,Recreation,479,6,Umerkot,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,383,Recreation,624,2,dadu,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Other,384,Active,579,3,Other,Car,7,September,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,385,Active,884,6,kashmir,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,386,Active,928,2,Umerkot,Car,14,June,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,387,Bathing,1099,3,Badin,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,388,Wandering,599,4,Hyderabad,Car,7,September,HolidayFlat,Mini-Budget Hotel
+lalQila,389,Wandering,1078,2,mirpurkhas,Car,14,June,HolidayFlat,Mini-Budget Hotel
+Moen-jo-daro,390,Bathing,1178,2,larkana,Car,14,July,OneStar,OneStar
+food places,391,Bathing,622,3,nawabshah,Car,7,August,OneStar,OneStar
+Mazar-e-Quid,392,Recreation,648,2,Karachi,Car,7,April,TwoStars,Wandering Hotel
+Rani-bagh,393,Recreation,1508,2,Hyderabad,Car,14,June,TwoStars,Wandering Hotel
+Badshahi Mosque,394,Bathing,747,3,Lahore,Car,7,September,TwoStars,Wandering Hotel
+Gorakh Hill,395,Bathing,2222,4,dadu,Car,14,July,TwoStars,Wandering Hotel
+Other,396,Bathing,869,5,Other,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,397,Bathing,484,3,kashmir,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,398,Bathing,599,2,Umerkot,Car,14,September,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,399,Bathing,2678,4,kashmir,Car,14,August,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,400,Bathing,1738,3,Umerkot,Car,14,July,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,401,Recreation,429,6,Badin,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,402,Recreation,1088,6,Karachi,Car,14,May,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,403,Active,529,4,Hyderabad,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,404,Active,1588,2,Lahore,Car,14,July,HolidayFlat,Mini-Budget Hotel
+Monal,405,Wandering,1258,2,Islamabad,Car,14,June,TwoStars,Wandering Hotel
+Hanna Lake,406,Recreation,822,3,Quetta,Car,7,May,TwoStars,Wandering Hotel
+food places,407,Wandering,1499,3,nawabshah,Car,14,July,ThreeStars,PC Hotel
+Gorakh Hill,408,Wandering,718,2,dadu,Car,7,September,ThreeStars,PC Hotel
+Other,409,Recreation,1528,2,Other,Car,14,August,ThreeStars,PC Hotel
+Muzzaferabad,410,Active,798,2,kashmir,Car,7,July,ThreeStars,PC Hotel
+Other,411,Wandering,1479,3,Other,Car,7,June,FourStars,Move n pick Hotel
+Muzzaferabad,412,Wandering,2658,2,kashmir,Car,14,July,FourStars,Move n pick Hotel
+Umer-Marvi fort,413,Recreation,1997,4,Umerkot,Car,7,September,FourStars,Move n pick Hotel
+Cultural Heritage,414,Recreation,2888,2,Badin,Car,14,June,FourStars,Move n pick Hotel
+Mazar-e-Quid,415,Wandering,439,4,Karachi,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,416,Wandering,319,3,Hyderabad,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,417,Recreation,769,6,kashmir,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,418,Recreation,1398,4,Umerkot,Car,14,September,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,419,Active,559,4,Badin,Car,7,May,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,420,Language,2039,1,Karachi,bus,21,September,TwoStars,Wandering Hotel
+Rani-bagh,421,Language,4078,2,Hyderabad,bus,21,July,TwoStars,Wandering Hotel
+lalQila,422,Language,1539,1,mirpurkhas,bus,14,August,TwoStars,Wandering Hotel
+Moen-jo-daro,423,Bathing,1598,2,larkana,bus,14,June,TwoStars,Wandering Hotel
+food places,424,Language,2039,1,nawabshah,bus,21,September,ThreeStars,PC Hotel
+Mazar-e-Quid,425,Bathing,3637,3,Karachi,bus,14,July,ThreeStars,PC Hotel
+Rani-bagh,426,Bathing,4476,4,Hyderabad,bus,14,August,ThreeStars,PC Hotel
+Badshahi Mosque,427,Bathing,4729,3,Lahore,bus,21,July,ThreeStars,PC Hotel
+Umer-Marvi fort,428,Active,3078,2,Umerkot,bus,14,September,ThreeStars,PC Hotel
+Cultural Heritage,429,Recreation,3518,2,Badin,bus,21,May,ThreeStars,PC Hotel
+Mazar-e-Quid,430,Bathing,4147,3,Karachi,bus,14,August,FourStars,Move n pick Hotel
+Rani-bagh,431,Bathing,3978,2,Hyderabad,bus,21,June,FourStars,Move n pick Hotel
+Badshahi Mosque,432,Active,3267,4,Lahore,bus,7,July,FourStars,Move n pick Hotel
+Monal,433,Active,4391,3,Islamabad,bus,14,August,FourStars,Move n pick Hotel
+Hanna Lake,434,Recreation,3278,2,Quetta,bus,14,May,FourStars,Move n pick Hotel
+food places,435,Wandering,1008,2,nawabshah,Car,14,May,TwoStars,Wandering Hotel
+Gorakh Hill,436,Wandering,538,3,dadu,Car,7,June,TwoStars,Wandering Hotel
+Other,437,Recreation,1472,3,Other,Car,14,July,TwoStars,Wandering Hotel
+Muzzaferabad,438,Recreation,1438,2,kashmir,Car,21,August,TwoStars,Wandering Hotel
+Umer-Marvi fort,439,Wandering,1498,2,Umerkot,Car,14,September,ThreeStars,PC Hotel
+Gorakh Hill,440,Wandering,1326,5,dadu,Car,7,August,ThreeStars,PC Hotel
+Other,441,Wandering,1247,3,Other,Car,7,July,ThreeStars,PC Hotel
+Muzzaferabad,442,Recreation,1058,2,kashmir,Car,7,June,ThreeStars,PC Hotel
+Umer-Marvi fort,443,Recreation,1698,2,Umerkot,Car,14,May,ThreeStars,PC Hotel
+Cultural Heritage,444,Active,2572,3,Badin,Car,14,July,ThreeStars,PC Hotel
+Rani-bagh,445,Wandering,499,4,Hyderabad,Car,7,May,HolidayFlat,Mini-Budget Hotel
+lalQila,446,Wandering,1049,6,mirpurkhas,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Moen-jo-daro,447,Wandering,779,4,larkana,Car,7,July,HolidayFlat,Mini-Budget Hotel
+food places,448,Wandering,1858,3,nawabshah,Car,14,August,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,449,Recreation,1149,6,Karachi,Car,7,September,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,450,Recreation,559,3,Hyderabad,Car,7,May,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,451,Recreation,1073,2,Lahore,Car,14,June,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,452,Recreation,1358,3,Umerkot,Car,14,July,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,453,Active,829,6,Badin,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,454,Active,579,4,Karachi,Car,7,September,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,455,Wandering,778,2,Hyderabad,Car,14,May,TwoStars,Wandering Hotel
+Badshahi Mosque,456,Recreation,418,2,Lahore,Car,7,June,TwoStars,Wandering Hotel
+Monal,457,Wandering,1572,3,Islamabad,Car,14,July,ThreeStars,PC Hotel
+Hanna Lake,458,Active,837,4,Quetta,Car,7,August,ThreeStars,PC Hotel
+food places,459,Wandering,718,2,nawabshah,Car,7,September,ThreeStars,PC Hotel
+Gorakh Hill,460,Recreation,2038,2,dadu,Car,21,May,ThreeStars,PC Hotel
+Other,461,Wandering,1538,3,Other,Car,14,June,FourStars,Move n pick Hotel
+Muzzaferabad,462,Recreation,2322,3,kashmir,Car,14,July,FourStars,Move n pick Hotel
+Cultural Heritage,463,Wandering,2127,4,Badin,Car,7,August,FourStars,Move n pick Hotel
+Rani-bagh,464,Active,2627,3,Hyderabad,Car,14,September,FourStars,Move n pick Hotel
+lalQila,465,Wandering,1798,2,mirpurkhas,Car,7,July,FiveStars,Salt n Paper Hotel
+Moen-jo-daro,466,Recreation,1518,2,larkana,Car,7,June,FiveStars,Salt n Paper Hotel
+food places,467,Wandering,684,4,nawabshah,Car,7,May,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,468,Wandering,729,6,Karachi,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,469,Wandering,699,4,Hyderabad,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,470,Wandering,349,2,Lahore,Car,14,August,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,471,Recreation,354,3,Umerkot,Car,7,September,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,472,Recreation,399,2,Badin,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,473,Recreation,719,6,Karachi,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,474,Recreation,1223,4,Hyderabad,Car,14,June,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,475,Active,484,3,Lahore,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,476,Active,1228,4,Umerkot,Car,14,June,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,477,Wandering,898,2,Badin,Car,14,June,TwoStars,Wandering Hotel
+Mazar-e-Quid,478,Recreation,478,3,Karachi,Car,7,May,TwoStars,Wandering Hotel
+Rani-bagh,479,Wandering,2372,3,Hyderabad,Car,14,July,ThreeStars,PC Hotel
+Badshahi Mosque,480,Wandering,1227,4,Lahore,Car,7,August,ThreeStars,PC Hotel
+Monal,481,Active,1578,2,Islamabad,Car,14,September,ThreeStars,PC Hotel
+Hanna Lake,482,Wandering,847,3,Quetta,Car,7,May,FourStars,Move n pick Hotel
+food places,483,Recreation,678,2,nawabshah,Car,7,June,FourStars,Move n pick Hotel
+Gorakh Hill,484,Wandering,379,2,dadu,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Other,485,Wandering,369,4,Other,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,486,Wandering,708,2,kashmir,Car,14,September,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,487,Recreation,569,6,Badin,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,488,Recreation,379,4,Hyderabad,Car,7,July,HolidayFlat,Mini-Budget Hotel
+lalQila,489,Recreation,429,4,mirpurkhas,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Moen-jo-daro,490,Recreation,348,2,larkana,Car,14,May,HolidayFlat,Mini-Budget Hotel
+food places,491,Active,909,4,nawabshah,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,492,Wandering,548,2,Karachi,Car,7,May,OneStar,OneStar
+Rani-bagh,493,Wandering,685,3,Hyderabad,Car,7,June,OneStar,OneStar
+Badshahi Mosque,494,Wandering,897,4,Lahore,Car,7,July,TwoStars,Wandering Hotel
+Umer-Marvi fort,495,Wandering,2322,3,Umerkot,Car,14,August,TwoStars,Wandering Hotel
+Cultural Heritage,496,Recreation,698,2,Badin,Car,7,September,TwoStars,Wandering Hotel
+Mazar-e-Quid,497,Wandering,798,2,Karachi,Car,7,August,ThreeStars,PC Hotel
+Rani-bagh,498,Wandering,1808,2,Hyderabad,Car,14,July,ThreeStars,PC Hotel
+Badshahi Mosque,499,Recreation,1972,3,Lahore,Car,14,June,ThreeStars,PC Hotel
+Monal,500,Active,818,2,Islamabad,Car,7,June,ThreeStars,PC Hotel
+Mazar-e-Quid,501,Wandering,738,2,Karachi,Car,7,May,FourStars,Move n pick Hotel
+Rani-bagh,502,Wandering,3267,4,Hyderabad,Car,14,July,FourStars,Move n pick Hotel
+Badshahi Mosque,503,Recreation,1571,5,Lahore,Car,7,August,FourStars,Move n pick Hotel
+Monal,504,Wandering,1198,2,Islamabad,Car,7,September,FiveStars,Salt n Paper Hotel
+Hanna Lake,505,Recreation,1847,3,Quetta,Car,7,July,FiveStars,Salt n Paper Hotel
+Bala Hashir Fort,506,Active,3098,3,peshawer,Car,14,August,FiveStars,Salt n Paper Hotel
+Hikin Places,507,Wandering,449,3,gilgit,Car,7,May,HolidayFlat,Mini-Budget Hotel
+cultral places,508,Wandering,654,5,sanghar,Car,7,June,HolidayFlat,Mini-Budget Hotel
+lalQila,509,Wandering,539,4,mirpurkhas,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Moen-jo-daro,510,Wandering,609,5,larkana,Car,7,August,HolidayFlat,Mini-Budget Hotel
+food places,511,Wandering,484,2,nawabshah,Car,7,September,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,512,Wandering,789,6,dadu,Car,7,August,HolidayFlat,Mini-Budget Hotel
+naltar valley,513,Wandering,838,3,hunza,Car,14,July,HolidayFlat,Mini-Budget Hotel
+clothing market,514,Wandering,728,2,faisalabad,Car,14,June,HolidayFlat,Mini-Budget Hotel
+Fort Kohra Qasim,515,Recreation,729,5,Multan,Car,7,May,HolidayFlat,Mini-Budget Hotel
+Army Vehicles Exhibition,516,Recreation,849,6,Sialkot,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,517,Recreation,494,3,kashmir,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,518,Recreation,599,5,Umerkot,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,519,Recreation,688,2,Badin,Car,14,September,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,520,Active,789,7,Karachi,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,521,Active,1538,4,Hyderabad,Car,14,July,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,522,Bathing,2518,2,Lahore,bus,14,May,TwoStars,Wandering Hotel
+Monal,523,Bathing,2562,3,Islamabad,bus,14,June,TwoStars,Wandering Hotel
+Hanna Lake,524,Active,2371,3,Quetta,bus,7,July,TwoStars,Wandering Hotel
+lalQila,525,Bathing,3271,3,mirpurkhas,bus,21,September,ThreeStars,PC Hotel
+Moen-jo-daro,526,Bathing,3398,2,larkana,bus,14,August,ThreeStars,PC Hotel
+food places,527,Bathing,2998,2,nawabshah,bus,14,June,ThreeStars,PC Hotel
+Gorakh Hill,528,Bathing,4253,4,dadu,bus,7,July,ThreeStars,PC Hotel
+naltar valley,529,Bathing,3758,2,hunza,bus,14,September,ThreeStars,PC Hotel
+clothing market,530,Active,4885,3,faisalabad,bus,14,June,ThreeStars,PC Hotel
+Muzzaferabad,531,Active,3958,2,kashmir,bus,21,May,ThreeStars,PC Hotel
+Umer-Marvi fort,532,Active,2678,2,Umerkot,bus,7,July,ThreeStars,PC Hotel
+Cultural Heritage,533,Recreation,3078,2,Badin,bus,14,April,ThreeStars,PC Hotel
+Mazar-e-Quid,534,Recreation,2158,2,Karachi,bus,7,October,ThreeStars,PC Hotel
+Rani-bagh,535,Bathing,3642,3,Hyderabad,bus,14,July,FourStars,Move n pick Hotel
+Badshahi Mosque,536,Active,4533,4,Lahore,bus,14,August,FourStars,Move n pick Hotel
+Monal,537,Bathing,3518,2,Islamabad,bus,14,June,TwoStars,Wandering Hotel
+Hanna Lake,538,Bathing,3440,3,Quetta,bus,14,July,TwoStars,Wandering Hotel
+lalQila,539,Bathing,4126,3,mirpurkhas,bus,21,August,TwoStars,Wandering Hotel
+Moen-jo-daro,540,Active,3518,2,larkana,bus,14,September,TwoStars,Wandering Hotel
+food places,541,Bathing,3238,2,nawabshah,bus,14,June,ThreeStars,PC Hotel
+Gorakh Hill,542,Bathing,4091,4,dadu,bus,7,July,ThreeStars,PC Hotel
+Other,543,Bathing,4452,3,Other,bus,21,September,ThreeStars,PC Hotel
+Muzzaferabad,544,Active,3598,2,kashmir,bus,14,August,ThreeStars,PC Hotel
+Umer-Marvi fort,545,Active,4438,2,Umerkot,bus,21,September,ThreeStars,PC Hotel
+Cultural Heritage,546,Recreation,4318,2,Badin,bus,21,May,ThreeStars,PC Hotel
+Mazar-e-Quid,547,Recreation,3318,2,Karachi,bus,14,October,ThreeStars,PC Hotel
+Rani-bagh,548,Bathing,2922,3,Hyderabad,bus,7,July,FourStars,Move n pick Hotel
+Badshahi Mosque,549,Bathing,5225,4,Lahore,bus,14,August,FourStars,Move n pick Hotel
+Monal,550,Active,3989,2,Islamabad,bus,14,June,FourStars,Move n pick Hotel
+Hanna Lake,551,Active,3897,3,Quetta,bus,7,July,FourStars,Move n pick Hotel
+lalQila,552,Recreation,469,4,mirpurkhas,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Moen-jo-daro,553,Recreation,799,6,larkana,Car,7,July,HolidayFlat,Mini-Budget Hotel
+food places,554,Recreation,519,5,nawabshah,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,555,Recreation,539,4,dadu,Car,7,September,HolidayFlat,Mini-Budget Hotel
+Other,556,Recreation,989,6,Other,Car,7,October,HolidayFlat,Mini-Budget Hotel
+naltar valley,557,Recreation,649,6,hunza,Car,7,August,HolidayFlat,Mini-Budget Hotel
+clothing market,558,Recreation,779,4,faisalabad,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Fort Kohra Qasim,559,Recreation,1578,4,Multan,Car,14,June,HolidayFlat,Mini-Budget Hotel
+Army Vehicles Exhibition,560,Recreation,1538,4,Sialkot,Car,14,July,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,561,Recreation,1318,4,kashmir,Car,14,August,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,562,Recreation,1178,6,Umerkot,Car,14,September,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,563,Wandering,639,6,Badin,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,564,Wandering,799,6,Karachi,Car,7,July,HolidayFlat,Mini-Budget Hotel
+lalQila,565,Wandering,789,4,mirpurkhas,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Moen-jo-daro,566,Wandering,938,4,larkana,Car,14,September,HolidayFlat,Mini-Budget Hotel
+food places,567,Wandering,764,3,nawabshah,Car,7,May,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,568,Wandering,494,2,dadu,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Other,569,Wandering,989,6,Other,Car,7,July,HolidayFlat,Mini-Budget Hotel
+naltar valley,570,Wandering,799,4,hunza,Car,7,August,HolidayFlat,Mini-Budget Hotel
+clothing market,571,Wandering,839,2,faisalabad,Car,7,September,HolidayFlat,Mini-Budget Hotel
+Fort Kohra Qasim,572,Wandering,799,3,Multan,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,573,Wandering,779,6,Badin,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,574,Wandering,529,4,Karachi,Car,7,August,HolidayFlat,Mini-Budget Hotel
+lalQila,575,Wandering,858,3,mirpurkhas,Car,14,September,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,576,Wandering,1303,4,Hyderabad,Car,14,June,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,577,Wandering,738,6,Lahore,Car,14,May,HolidayFlat,Mini-Budget Hotel
+Monal,578,Wandering,908,2,Islamabad,Car,14,July,HolidayFlat,Mini-Budget Hotel
+Hanna Lake,579,Recreation,729,3,Quetta,Car,7,May,HolidayFlat,Mini-Budget Hotel
+lalQila,580,Recreation,779,6,mirpurkhas,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Moen-jo-daro,581,Recreation,519,4,larkana,Car,7,July,HolidayFlat,Mini-Budget Hotel
+food places,582,Recreation,1184,4,nawabshah,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,583,Recreation,629,2,dadu,Car,7,September,HolidayFlat,Mini-Budget Hotel
+Other,584,Recreation,858,3,Other,Car,14,June,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,585,Recreation,1298,4,kashmir,Car,14,July,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,586,Recreation,1958,6,Umerkot,Car,14,August,HolidayFlat,Mini-Budget Hotel
+clothing market,587,Bathing,1317,4,faisalabad,Car,7,August,TwoStars,Wandering Hotel
+Fort Kohra Qasim,588,Bathing,2800,3,Multan,Car,14,July,ThreeStars,PC Hotel
+Other,589,Bathing,1058,2,Other,Car,7,August,FourStars,Move n pick Hotel
+naltar valley,590,Bathing,3222,3,hunza,Car,14,July,FourStars,Move n pick Hotel
+clothing market,591,Recreation,1014,10,faisalabad,Car,7,May,HolidayFlat,Mini-Budget Hotel
+Fort Kohra Qasim,592,Recreation,539,4,Multan,Car,14,June,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,593,Active,1039,6,Badin,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,594,Active,678,4,Karachi,Car,14,September,HolidayFlat,Mini-Budget Hotel
+lalQila,595,Bathing,1039,8,mirpurkhas,Car,7,June,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,596,Bathing,2324,12,Karachi,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,597,Bathing,1229,2,Hyderabad,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,598,Bathing,789,5,Lahore,Car,7,September,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,599,Bathing,649,3,Umerkot,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,600,Bathing,1259,3,Badin,Car,7,August,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,601,Bathing,1038,4,Karachi,Car,14,June,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,602,Bathing,1798,4,Hyderabad,Car,14,July,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,603,Bathing,2038,8,Lahore,Car,14,September,HolidayFlat,Mini-Budget Hotel
+Monal,604,Bathing,1998,2,Islamabad,Car,14,June,TwoStars,Wandering Hotel
+Hanna Lake,605,Bathing,2550,3,Quetta,Car,14,July,TwoStars,Wandering Hotel
+lalQila,606,Active,2696,3,mirpurkhas,Car,21,August,TwoStars,Wandering Hotel
+Moen-jo-daro,607,Recreation,1558,2,larkana,Car,7,September,TwoStars,Wandering Hotel
+food places,608,Bathing,2518,2,nawabshah,Car,14,June,ThreeStars,PC Hotel
+Gorakh Hill,609,Bathing,6971,4,dadu,Car,21,August,ThreeStars,PC Hotel
+Other,610,Bathing,3099,3,Other,Car,14,July,ThreeStars,PC Hotel
+Muzzaferabad,611,Bathing,1738,2,kashmir,Car,7,July,ThreeStars,PC Hotel
+Umer-Marvi fort,612,Active,2198,2,Umerkot,Car,14,June,ThreeStars,PC Hotel
+Cultural Heritage,613,Recreation,2360,3,Badin,Car,14,May,ThreeStars,PC Hotel
+Mazar-e-Quid,614,Bathing,2186,3,Karachi,Car,7,July,FourStars,Move n pick Hotel
+Rani-bagh,615,Bathing,2418,2,Hyderabad,Car,14,June,FourStars,Move n pick Hotel
+Badshahi Mosque,616,Bathing,3737,3,Lahore,Car,14,August,FourStars,Move n pick Hotel
+Monal,617,Active,3048,2,Islamabad,Car,21,September,FourStars,Move n pick Hotel
+Hanna Lake,618,Recreation,3912,4,Quetta,Car,14,July,FourStars,Move n pick Hotel
+lalQila,619,Bathing,3528,2,mirpurkhas,bus,14,May,ThreeStars,PC Hotel
+Moen-jo-daro,620,Bathing,4402,3,larkana,bus,14,June,ThreeStars,PC Hotel
+food places,621,Bathing,6357,3,nawabshah,bus,21,July,ThreeStars,PC Hotel
+Mazar-e-Quid,622,Bathing,3417,4,Karachi,bus,14,August,ThreeStars,PC Hotel
+Rani-bagh,623,Active,2598,2,Hyderabad,bus,14,September,ThreeStars,PC Hotel
+Badshahi Mosque,624,Active,2252,3,Lahore,bus,7,July,ThreeStars,PC Hotel
+Monal,625,Active,3678,2,Islamabad,bus,14,August,ThreeStars,PC Hotel
+Hanna Lake,626,Recreation,3578,2,Quetta,bus,14,June,ThreeStars,PC Hotel
+Bala Hashir Fort,627,Bathing,7161,3,peshawer,bus,21,June,FourStars,Move n pick Hotel
+Hikin Places,628,Bathing,5709,3,gilgit,bus,14,July,FourStars,Move n pick Hotel
+cultral places,629,Bathing,6369,4,sanghar,bus,14,August,FourStars,Move n pick Hotel
+lalQila,630,Bathing,3188,2,mirpurkhas,bus,7,June,FourStars,Move n pick Hotel
+Moen-jo-daro,631,Active,3428,2,larkana,bus,14,September,FourStars,Move n pick Hotel
+food places,632,Active,4602,3,nawabshah,bus,14,July,FourStars,Move n pick Hotel
+Gorakh Hill,633,Recreation,3188,2,dadu,bus,14,May,FourStars,Move n pick Hotel
+naltar valley,634,Bathing,2412,3,hunza,bus,14,May,TwoStars,Wandering Hotel
+clothing market,635,Bathing,3125,3,faisalabad,bus,21,July,TwoStars,Wandering Hotel
+Fort Kohra Qasim,636,Bathing,2378,2,Multan,bus,14,September,TwoStars,Wandering Hotel
+Army Vehicles Exhibition,637,Active,3177,4,Sialkot,bus,14,August,TwoStars,Wandering Hotel
+Muzzaferabad,638,Bathing,2788,2,kashmir,bus,14,May,ThreeStars,PC Hotel
+Umer-Marvi fort,639,Bathing,4100,3,Umerkot,bus,21,June,ThreeStars,PC Hotel
+Cultural Heritage,640,Bathing,2723,3,Badin,bus,7,July,ThreeStars,PC Hotel
+Mazar-e-Quid,641,Active,4261,3,Karachi,bus,14,August,ThreeStars,PC Hotel
+Rani-bagh,642,Active,3778,2,Hyderabad,bus,21,September,ThreeStars,PC Hotel
+Badshahi Mosque,643,Recreation,2508,2,Lahore,bus,7,August,ThreeStars,PC Hotel
+Monal,644,Bathing,3258,2,Islamabad,bus,14,June,FourStars,Move n pick Hotel
+Hanna Lake,645,Bathing,4252,3,Quetta,bus,14,July,FourStars,Move n pick Hotel
+lalQila,646,Bathing,3498,2,mirpurkhas,bus,21,September,FourStars,Move n pick Hotel
+Moen-jo-daro,647,Active,2848,2,larkana,bus,14,May,FourStars,Move n pick Hotel
+food places,648,Active,3551,3,nawabshah,bus,14,August,FourStars,Move n pick Hotel
+Gorakh Hill,649,Bathing,2078,2,dadu,bus,14,June,TwoStars,Wandering Hotel
+naltar valley,650,Bathing,2498,2,hunza,bus,21,September,TwoStars,Wandering Hotel
+clothing market,651,Bathing,2427,3,faisalabad,bus,14,July,TwoStars,Wandering Hotel
+Muzzaferabad,652,Active,2852,4,kashmir,bus,14,August,TwoStars,Wandering Hotel
+Umer-Marvi fort,653,Active,1995,3,Umerkot,bus,7,July,TwoStars,Wandering Hotel
+Cultural Heritage,654,Bathing,2798,2,Badin,bus,14,June,ThreeStars,PC Hotel
+Mazar-e-Quid,655,Bathing,2878,2,Karachi,bus,14,July,ThreeStars,PC Hotel
+Rani-bagh,656,Bathing,3258,2,Hyderabad,bus,21,May,ThreeStars,PC Hotel
+Badshahi Mosque,657,Bathing,2343,3,Lahore,bus,7,August,ThreeStars,PC Hotel
+Monal,658,Bathing,3217,3,Islamabad,bus,14,June,ThreeStars,PC Hotel
+Hanna Lake,659,Active,4832,4,Quetta,bus,14,July,ThreeStars,PC Hotel
+lalQila,660,Active,3558,2,mirpurkhas,bus,21,September,ThreeStars,PC Hotel
+Moen-jo-daro,661,Bathing,4398,2,larkana,bus,14,June,FourStars,Move n pick Hotel
+food places,662,Bathing,4958,2,nawabshah,bus,14,July,FourStars,Move n pick Hotel
+Gorakh Hill,663,Active,2090,3,dadu,bus,7,August,FourStars,Move n pick Hotel
+Other,664,Bathing,1558,2,Other,bus,14,June,OneStar,OneStar
+Muzzaferabad,665,Bathing,2397,3,kashmir,bus,14,July,OneStar,OneStar
+Umer-Marvi fort,666,Bathing,2481,2,Umerkot,bus,21,September,OneStar,OneStar
+Cultural Heritage,667,Bathing,1718,2,Badin,bus,14,June,TwoStars,Wandering Hotel
+Mazar-e-Quid,668,Bathing,2410,4,Karachi,bus,7,August,TwoStars,Wandering Hotel
+Rani-bagh,669,Recreation,1285,3,Hyderabad,bus,4,May,TwoStars,Wandering Hotel
+Badshahi Mosque,670,Active,1798,2,Lahore,bus,14,June,TwoStars,Wandering Hotel
+Monal,671,Wandering,1676,3,Islamabad,bus,7,September,TwoStars,Wandering Hotel
+Hanna Lake,672,Bathing,2198,2,Quetta,bus,14,June,ThreeStars,PC Hotel
+food places,673,Bathing,3530,4,nawabshah,bus,14,July,ThreeStars,PC Hotel
+Gorakh Hill,674,Bathing,1607,3,dadu,bus,4,August,ThreeStars,PC Hotel
+Other,675,Bathing,3697,3,Other,bus,14,July,ThreeStars,PC Hotel
+Muzzaferabad,676,Bathing,1858,2,kashmir,bus,7,August,ThreeStars,PC Hotel
+Umer-Marvi fort,677,Bathing,2598,3,Umerkot,bus,14,September,ThreeStars,PC Hotel
+Cultural Heritage,678,Active,3058,2,Badin,bus,21,May,ThreeStars,PC Hotel
+Mazar-e-Quid,679,Bathing,1478,2,Karachi,bus,4,June,FourStars,Move n pick Hotel
+Rani-bagh,680,Bathing,3644,4,Hyderabad,bus,7,July,FourStars,Move n pick Hotel
+Muzzaferabad,681,Bathing,3605,3,kashmir,bus,14,August,FourStars,Move n pick Hotel
+Umer-Marvi fort,682,Active,2678,2,Umerkot,bus,14,June,FourStars,Move n pick Hotel
+Cultural Heritage,683,Active,1898,2,Badin,bus,7,September,FourStars,Move n pick Hotel
+Mazar-e-Quid,684,Bathing,3417,3,Karachi,bus,14,June,TwoStars,Wandering Hotel
+Rani-bagh,685,Bathing,2698,2,Hyderabad,bus,21,September,TwoStars,Wandering Hotel
+Badshahi Mosque,686,Bathing,3837,3,Lahore,bus,14,July,ThreeStars,PC Hotel
+Monal,687,Bathing,3507,4,Islamabad,bus,14,August,ThreeStars,PC Hotel
+Hanna Lake,688,Bathing,2278,2,Quetta,bus,14,June,ThreeStars,PC Hotel
+food places,689,Bathing,3194,3,nawabshah,bus,14,August,ThreeStars,PC Hotel
+Gorakh Hill,690,Bathing,2858,2,dadu,bus,14,July,ThreeStars,PC Hotel
+Other,691,Bathing,2068,2,Other,bus,7,May,ThreeStars,PC Hotel
+Muzzaferabad,692,Active,3278,2,kashmir,bus,21,June,ThreeStars,PC Hotel
+Umer-Marvi fort,693,Recreation,2178,2,Umerkot,bus,7,October,ThreeStars,PC Hotel
+Gorakh Hill,694,Bathing,4011,3,dadu,bus,14,August,FourStars,Move n pick Hotel
+Other,695,Bathing,4287,3,Other,bus,14,July,FourStars,Move n pick Hotel
+Muzzaferabad,696,Bathing,2488,2,kashmir,bus,7,June,FourStars,Move n pick Hotel
+Umer-Marvi fort,697,Active,5532,4,Umerkot,bus,14,August,FourStars,Move n pick Hotel
+Cultural Heritage,698,Active,4810,3,Badin,bus,21,May,FourStars,Move n pick Hotel
+Mazar-e-Quid,699,Wandering,758,2,Karachi,Car,7,May,TwoStars,Wandering Hotel
+Rani-bagh,700,Wandering,858,2,Hyderabad,Car,7,June,TwoStars,Wandering Hotel
+Muzzaferabad,701,Wandering,1118,4,kashmir,Car,7,July,TwoStars,Wandering Hotel
+Umer-Marvi fort,702,Wandering,1698,3,Umerkot,Car,14,August,TwoStars,Wandering Hotel
+Cultural Heritage,703,Wandering,1138,2,Badin,Car,14,September,TwoStars,Wandering Hotel
+Mazar-e-Quid,704,Recreation,798,2,Karachi,Car,7,August,TwoStars,Wandering Hotel
+Rani-bagh,705,Recreation,678,3,Hyderabad,Car,7,July,TwoStars,Wandering Hotel
+Badshahi Mosque,706,Recreation,938,2,Lahore,Car,7,June,ThreeStars,PC Hotel
+Monal,707,Recreation,1498,2,Islamabad,Car,14,May,ThreeStars,PC Hotel
+Hanna Lake,708,Wandering,698,2,Quetta,Car,7,June,ThreeStars,PC Hotel
+food places,709,Wandering,1806,3,nawabshah,Car,14,September,ThreeStars,PC Hotel
+Muzzaferabad,710,Wandering,807,3,kashmir,Coach,7,May,TwoStars,Wandering Hotel
+Umer-Marvi fort,711,Recreation,2274,4,Umerkot,Coach,14,June,TwoStars,Wandering Hotel
+Gorakh Hill,712,Recreation,1185,3,dadu,Train,7,August,ThreeStars,PC Hotel
+Other,713,Wandering,698,2,Other,Train,7,September,ThreeStars,PC Hotel
+Muzzaferabad,714,Bathing,2178,2,kashmir,bus,14,June,TwoStars,Wandering Hotel
+Umer-Marvi fort,715,Bathing,2483,3,Umerkot,bus,14,July,TwoStars,Wandering Hotel
+Cultural Heritage,716,Bathing,4770,4,Badin,bus,21,August,ThreeStars,PC Hotel
+Mazar-e-Quid,717,Active,2578,2,Karachi,bus,14,September,ThreeStars,PC Hotel
+Rani-bagh,718,Active,3065,3,Hyderabad,bus,7,July,ThreeStars,PC Hotel
+Muzzaferabad,719,Bathing,2758,2,kashmir,bus,14,August,ThreeStars,PC Hotel
+Umer-Marvi fort,720,Education,2878,2,Umerkot,bus,14,May,FourStars,Move n pick Hotel
+Cultural Heritage,721,Bathing,1958,2,Badin,bus,14,June,TwoStars,Wandering Hotel
+Mazar-e-Quid,722,Bathing,3171,3,Karachi,bus,14,July,ThreeStars,PC Hotel
+Rani-bagh,723,Bathing,2412,3,Hyderabad,bus,7,August,ThreeStars,PC Hotel
+lalQila,724,Bathing,2878,2,mirpurkhas,bus,14,September,ThreeStars,PC Hotel
+Moen-jo-daro,725,Education,3278,2,larkana,bus,21,May,ThreeStars,PC Hotel
+food places,726,Bathing,4313,4,nawabshah,bus,14,August,FourStars,Move n pick Hotel
+Mazar-e-Quid,727,Bathing,3010,3,Karachi,bus,7,July,FourStars,Move n pick Hotel
+Rani-bagh,728,Active,2918,2,Hyderabad,bus,14,June,FourStars,Move n pick Hotel
+Badshahi Mosque,729,Bathing,2298,2,Lahore,bus,14,June,TwoStars,Wandering Hotel
+Monal,730,Bathing,2941,3,Islamabad,bus,14,July,TwoStars,Wandering Hotel
+Hanna Lake,731,Active,3160,3,Quetta,bus,21,September,TwoStars,Wandering Hotel
+Bala Hashir Fort,732,Bathing,4107,4,peshawer,bus,14,August,ThreeStars,PC Hotel
+Hikin Places,733,Bathing,2838,2,gilgit,bus,14,July,ThreeStars,PC Hotel
+cultral places,734,Bathing,2738,2,sanghar,bus,14,June,ThreeStars,PC Hotel
+lalQila,735,Bathing,2258,2,mirpurkhas,bus,7,August,ThreeStars,PC Hotel
+Moen-jo-daro,736,Bathing,3891,3,larkana,bus,21,June,ThreeStars,PC Hotel
+food places,737,Active,3058,2,nawabshah,bus,14,September,ThreeStars,PC Hotel
+Gorakh Hill,738,Education,2698,2,dadu,bus,14,May,ThreeStars,PC Hotel
+naltar valley,739,Bathing,3258,2,hunza,bus,14,June,FourStars,Move n pick Hotel
+clothing market,740,Bathing,3325,3,faisalabad,bus,7,July,FourStars,Move n pick Hotel
+Fort Kohra Qasim,741,Bathing,3258,3,Multan,bus,14,September,FourStars,Move n pick Hotel
+Army Vehicles Exhibition,742,Active,2898,2,Sialkot,bus,14,May,FourStars,Move n pick Hotel
+Mazar-e-Quid,743,Education,2498,2,Karachi,bus,14,October,FourStars,Move n pick Hotel
+Rani-bagh,744,Bathing,2778,3,Hyderabad,bus,14,July,TwoStars,Wandering Hotel
+Badshahi Mosque,745,Bathing,1778,2,Lahore,bus,14,June,TwoStars,Wandering Hotel
+Monal,746,Recreation,2058,2,Islamabad,bus,14,May,TwoStars,Wandering Hotel
+Hanna Lake,747,Active,2637,3,Quetta,bus,14,September,TwoStars,Wandering Hotel
+food places,748,Bathing,4114,3,nawabshah,bus,14,June,ThreeStars,PC Hotel
+Gorakh Hill,749,Bathing,3464,4,dadu,bus,7,July,ThreeStars,PC Hotel
+Other,750,Bathing,3203,3,Other,bus,14,August,ThreeStars,PC Hotel
+Muzzaferabad,751,Recreation,2768,2,kashmir,bus,21,June,ThreeStars,PC Hotel
+Umer-Marvi fort,752,Recreation,2258,2,Umerkot,bus,14,May,ThreeStars,PC Hotel
+Gorakh Hill,753,Active,2964,3,dadu,bus,14,September,ThreeStars,PC Hotel
+Other,754,Bathing,2808,2,Other,bus,14,June,FourStars,Move n pick Hotel
+Muzzaferabad,755,Bathing,4773,4,kashmir,bus,14,July,FourStars,Move n pick Hotel
+Umer-Marvi fort,756,Recreation,1888,2,Umerkot,bus,14,May,FourStars,Move n pick Hotel
+Mazar-e-Quid,757,Bathing,2228,2,Karachi,bus,7,June,FourStars,Move n pick Hotel
+Rani-bagh,758,Active,2898,2,Hyderabad,bus,14,August,FourStars,Move n pick Hotel
+Badshahi Mosque,759,Active,2879,3,Lahore,bus,14,September,FourStars,Move n pick Hotel
+Monal,760,Bathing,3537,4,Islamabad,Car,14,July,ThreeStars,PC Hotel
+Hanna Lake,761,Bathing,2447,3,Quetta,Car,21,August,ThreeStars,PC Hotel
+Bala Hashir Fort,762,Bathing,2758,3,peshawer,Car,14,July,FourStars,Move n pick Hotel
+Hikin Places,763,Recreation,2758,2,gilgit,Car,14,June,FourStars,Move n pick Hotel
+cultral places,764,Bathing,879,9,sanghar,Car,7,June,HolidayFlat,Mini-Budget Hotel
+lalQila,765,Bathing,759,5,mirpurkhas,Car,7,July,HolidayFlat,Mini-Budget Hotel
+Moen-jo-daro,766,Bathing,798,2,larkana,Car,14,August,HolidayFlat,Mini-Budget Hotel
+food places,767,Recreation,658,3,nawabshah,Car,14,May,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,768,Recreation,279,2,dadu,Car,7,June,HolidayFlat,Mini-Budget Hotel
+naltar valley,769,Active,1498,7,hunza,Car,14,September,HolidayFlat,Mini-Budget Hotel
+clothing market,770,Recreation,434,2,faisalabad,Car,7,November,HolidayFlat,Mini-Budget Hotel
+Fort Kohra Qasim,771,Recreation,434,3,Multan,Car,7,December,HolidayFlat,Mini-Budget Hotel
+Army Vehicles Exhibition,772,Recreation,739,4,Sialkot,Car,14,February,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,773,Active,434,2,Karachi,Car,7,November,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,774,Active,1068,4,Hyderabad,Car,14,March,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,775,Recreation,314,2,Lahore,Car,3,November,HolidayFlat,Mini-Budget Hotel
+Monal,776,Active,394,6,Islamabad,Car,4,January,HolidayFlat,Mini-Budget Hotel
+Hanna Lake,777,Recreation,649,4,Quetta,Car,7,November,HolidayFlat,Mini-Budget Hotel
+food places,778,Active,879,8,nawabshah,Car,7,December,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,779,Recreation,719,6,kashmir,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,780,Active,369,4,Umerkot,Car,4,December,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,781,Recreation,849,3,dadu,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Other,782,Active,649,6,Other,Car,7,November,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,783,Recreation,339,5,kashmir,Car,4,February,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,784,Recreation,1338,4,Umerkot,Car,14,January,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,785,Active,959,5,kashmir,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,786,Active,499,4,Umerkot,Car,3,December,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,787,Recreation,649,4,Badin,Car,7,March,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,788,Active,919,8,Karachi,Car,7,November,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,789,Recreation,619,6,Hyderabad,Car,4,March,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,790,Recreation,699,2,Lahore,Car,7,November,HolidayFlat,Mini-Budget Hotel
+Monal,791,Recreation,699,3,Islamabad,Car,7,December,HolidayFlat,Mini-Budget Hotel
+Hanna Lake,792,Active,439,4,Quetta,Car,4,January,HolidayFlat,Mini-Budget Hotel
+food places,793,Recreation,639,4,nawabshah,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,794,Active,639,5,dadu,Car,7,March,HolidayFlat,Mini-Budget Hotel
+Other,795,Active,1278,4,Other,Car,14,November,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,796,Recreation,629,4,kashmir,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Other,797,Active,629,6,Other,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,798,Recreation,509,4,kashmir,Car,7,March,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,799,Active,889,8,Umerkot,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,800,Recreation,579,2,Badin,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,801,Recreation,719,4,Karachi,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,802,Active,1638,6,Hyderabad,Car,14,March,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,803,Recreation,849,4,kashmir,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,804,Active,1089,6,Umerkot,Car,7,March,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,805,Recreation,499,3,Badin,Car,7,November,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,806,Recreation,529,4,Karachi,Car,7,December,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,807,Active,609,6,Hyderabad,Car,7,February,HolidayFlat,Mini-Budget Hotel
+lalQila,808,Recreation,354,4,mirpurkhas,Car,3,January,HolidayFlat,Mini-Budget Hotel
+Moen-jo-daro,809,Active,339,2,larkana,Car,4,November,HolidayFlat,Mini-Budget Hotel
+food places,810,Active,538,2,nawabshah,Car,7,January,ThreeStars,PC Hotel
+Mazar-e-Quid,811,Skiing,822,3,Karachi,Car,7,February,ThreeStars,PC Hotel
+Rani-bagh,812,Recreation,1076,4,Hyderabad,Car,7,February,ThreeStars,PC Hotel
+Badshahi Mosque,813,Active,1602,3,Lahore,Car,14,January,TwoStars,Wandering Hotel
+Umer-Marvi fort,814,Skiing,558,2,Umerkot,Car,7,February,TwoStars,Wandering Hotel
+Cultural Heritage,815,Recreation,807,4,Badin,Car,7,March,TwoStars,Wandering Hotel
+Mazar-e-Quid,816,Active,898,2,Karachi,Car,14,January,TwoStars,Wandering Hotel
+Rani-bagh,817,Skiing,478,2,Hyderabad,Car,7,February,TwoStars,Wandering Hotel
+Badshahi Mosque,818,Recreation,687,3,Lahore,Car,7,March,TwoStars,Wandering Hotel
+Monal,819,Active,319,2,Islamabad,Car,7,January,TwoStars,Wandering Hotel
+Hanna Lake,820,Skiing,1962,4,Quetta,Car,14,February,TwoStars,Wandering Hotel
+food places,821,Recreation,329,2,nawabshah,Car,7,February,TwoStars,Wandering Hotel
+Gorakh Hill,822,Active,987,3,dadu,Car,7,February,TwoStars,Wandering Hotel
+Other,823,Skiing,638,2,Other,Car,7,March,TwoStars,Wandering Hotel
+Muzzaferabad,824,Recreation,1276,4,kashmir,Car,7,January,TwoStars,Wandering Hotel
+Umer-Marvi fort,825,Active,858,2,Umerkot,Car,7,January,TwoStars,Wandering Hotel
+Gorakh Hill,826,Skiing,1647,3,dadu,Car,7,February,TwoStars,Wandering Hotel
+Other,827,Active,1028,2,Other,Car,14,February,ThreeStars,PC Hotel
+Muzzaferabad,828,Skiing,1098,2,kashmir,Car,7,March,ThreeStars,PC Hotel
+Umer-Marvi fort,829,Skiing,1572,3,Umerkot,Car,7,January,ThreeStars,PC Hotel
+Cultural Heritage,830,Recreation,1738,2,Badin,Car,7,February,ThreeStars,PC Hotel
+Rani-bagh,831,Active,3777,3,Hyderabad,Car,14,February,ThreeStars,PC Hotel
+lalQila,832,Skiing,1048,2,mirpurkhas,Car,7,March,ThreeStars,PC Hotel
+Moen-jo-daro,833,Skiing,598,2,larkana,Car,7,January,ThreeStars,PC Hotel
+food places,834,Active,1816,4,nawabshah,Car,7,February,ThreeStars,PC Hotel
+Mazar-e-Quid,835,Active,2097,3,Karachi,Car,7,February,ThreeStars,PC Hotel
+Rani-bagh,836,Recreation,1198,2,Hyderabad,Car,7,March,ThreeStars,PC Hotel
+Badshahi Mosque,837,Skiing,1257,3,Lahore,Car,14,March,TwoStars,Wandering Hotel
+Umer-Marvi fort,838,Recreation,2036,4,Umerkot,Car,7,February,TwoStars,Wandering Hotel
+Cultural Heritage,839,Active,2334,6,Badin,Car,14,February,TwoStars,Wandering Hotel
+Mazar-e-Quid,840,Skiing,1795,5,Karachi,Car,7,January,TwoStars,Wandering Hotel
+Rani-bagh,841,Active,748,2,Hyderabad,Car,7,January,TwoStars,Wandering Hotel
+Badshahi Mosque,842,Skiing,1497,3,Lahore,Car,7,February,TwoStars,Wandering Hotel
+Monal,843,Skiing,1272,3,Islamabad,Car,7,February,OneStar,OneStar
+Hanna Lake,844,Skiing,888,2,Quetta,Car,7,March,OneStar,OneStar
+food places,845,Skiing,1152,4,nawabshah,Car,7,January,ThreeStars,PC Hotel
+Gorakh Hill,846,Skiing,1414,3,dadu,Car,7,February,ThreeStars,PC Hotel
+Other,847,Active,798,2,Other,Car,14,March,ThreeStars,PC Hotel
+Muzzaferabad,848,Skiing,698,2,kashmir,Car,7,January,ThreeStars,PC Hotel
+Umer-Marvi fort,849,Active,1372,3,Umerkot,Car,7,February,ThreeStars,PC Hotel
+Gorakh Hill,850,Skiing,1737,3,dadu,Car,7,February,ThreeStars,PC Hotel
+Gorakh Hill,851,Skiing,998,2,dadu,Car,7,March,ThreeStars,PC Hotel
+Other,852,Recreation,1737,3,Other,Car,14,January,ThreeStars,PC Hotel
+Muzzaferabad,853,Skiing,1596,4,kashmir,Car,7,February,TwoStars,Wandering Hotel
+Other,854,Active,638,2,Other,Car,7,March,TwoStars,Wandering Hotel
+Muzzaferabad,855,Skiing,897,3,kashmir,Car,14,February,OneStar,OneStar
+Umer-Marvi fort,856,Active,458,2,Umerkot,Car,7,January,OneStar,OneStar
+Cultural Heritage,857,Skiing,698,2,Badin,Car,7,March,TwoStars,Wandering Hotel
+Mazar-e-Quid,858,Skiing,1047,3,Karachi,Car,7,February,TwoStars,Wandering Hotel
+Rani-bagh,859,Active,488,2,Hyderabad,Car,7,January,OneStar,OneStar
+Muzzaferabad,860,Recreation,1096,4,kashmir,Car,7,February,OneStar,OneStar
+Umer-Marvi fort,861,Skiing,458,2,Umerkot,Car,7,March,OneStar,OneStar
+Cultural Heritage,862,Recreation,1180,3,Badin,Car,14,February,OneStar,OneStar
+Mazar-e-Quid,863,Active,892,4,Karachi,Car,7,January,OneStar,OneStar
+Rani-bagh,864,Skiing,718,2,Hyderabad,Car,7,February,OneStar,OneStar
+lalQila,865,Skiing,974,5,mirpurkhas,Car,7,March,HolidayFlat,Mini-Budget Hotel
+Moen-jo-daro,866,Skiing,974,3,larkana,Car,7,February,HolidayFlat,Mini-Budget Hotel
+food places,867,Skiing,1108,4,nawabshah,Car,14,January,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,868,Active,579,6,Karachi,Car,7,March,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,869,Active,664,4,Hyderabad,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,870,Active,4332,4,Lahore,Car,7,December,FiveStars,Salt n Paper Hotel
+Umer-Marvi fort,871,Skiing,1868,2,Umerkot,Car,7,January,FiveStars,Salt n Paper Hotel
+Cultural Heritage,872,Recreation,2428,3,Badin,Car,7,February,FiveStars,Salt n Paper Hotel
+Mazar-e-Quid,873,Active,1822,3,Karachi,Car,14,March,ThreeStars,PC Hotel
+Rani-bagh,874,Skiing,1458,2,Hyderabad,Car,7,February,ThreeStars,PC Hotel
+Badshahi Mosque,875,Skiing,1822,3,Lahore,Car,7,January,ThreeStars,PC Hotel
+Monal,876,Active,2248,2,Islamabad,Car,7,December,FiveStars,Salt n Paper Hotel
+Hanna Lake,877,Skiing,2447,3,Quetta,Car,7,January,FiveStars,Salt n Paper Hotel
+food places,878,Recreation,2937,4,nawabshah,Car,7,February,FiveStars,Salt n Paper Hotel
+Gorakh Hill,879,Active,1058,3,dadu,Car,14,March,TwoStars,Wandering Hotel
+Other,880,Skiing,1587,4,Other,Car,7,February,TwoStars,Wandering Hotel
+Muzzaferabad,881,Recreation,688,2,kashmir,Car,7,January,TwoStars,Wandering Hotel
+Umer-Marvi fort,882,Skiing,530,4,Umerkot,Car,7,December,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,883,Active,645,8,dadu,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Other,884,Skiing,745,6,Other,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,885,Skiing,1188,2,kashmir,Car,14,March,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,886,Recreation,879,4,Umerkot,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,887,Active,624,3,Badin,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,888,Skiing,459,3,Hyderabad,Car,8,December,HolidayFlat,Mini-Budget Hotel
+lalQila,889,Skiing,424,4,mirpurkhas,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Moen-jo-daro,890,Recreation,1568,4,larkana,Car,14,February,HolidayFlat,Mini-Budget Hotel
+food places,891,Skiing,854,4,nawabshah,Car,7,March,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,892,Active,984,6,Karachi,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,893,Recreation,439,2,Hyderabad,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,894,Recreation,799,3,Lahore,Car,10,December,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,895,Active,998,3,dadu,Car,7,December,ThreeStars,PC Hotel
+Other,896,Skiing,798,2,Other,Car,7,January,ThreeStars,PC Hotel
+Muzzaferabad,897,Skiing,998,3,kashmir,Car,7,February,ThreeStars,PC Hotel
+Umer-Marvi fort,898,Active,1348,2,Umerkot,Car,7,December,FourStars,Move n pick Hotel
+Muzzaferabad,899,Skiing,1147,3,kashmir,Car,7,January,FourStars,Move n pick Hotel
+Umer-Marvi fort,900,Recreation,3188,2,Umerkot,Car,14,February,ThreeStars,PC Hotel
+Cultural Heritage,901,Active,3448,2,Badin,Car,10,December,ThreeStars,PC Hotel
+Mazar-e-Quid,902,Active,1658,2,Karachi,Car,7,January,FourStars,Move n pick Hotel
+Rani-bagh,903,Skiing,2072,3,Hyderabad,Car,7,February,FourStars,Move n pick Hotel
+Badshahi Mosque,904,Active,2985,3,Lahore,Car,14,February,FourStars,Move n pick Hotel
+Monal,905,Skiing,1658,2,Islamabad,Car,7,March,FourStars,Move n pick Hotel
+Hanna Lake,906,Active,745,3,Quetta,Car,7,January,TwoStars,Wandering Hotel
+food places,907,Recreation,949,4,nawabshah,Car,7,February,TwoStars,Wandering Hotel
+Gorakh Hill,908,Active,684,2,dadu,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Other,909,Skiing,1164,5,Other,Car,14,February,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,910,Active,529,4,kashmir,Car,7,December,HolidayFlat,Mini-Budget Hotel
+Other,911,Recreation,484,2,Other,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,912,Skiing,449,2,kashmir,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,913,Skiing,774,6,Umerkot,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,914,Active,379,2,Badin,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,915,Recreation,459,3,Karachi,Car,14,February,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,916,Active,454,3,Hyderabad,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,917,Skiing,774,8,kashmir,Car,7,March,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,918,Recreation,699,6,Umerkot,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,919,Active,1018,3,Badin,Car,14,February,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,920,Recreation,1338,2,Karachi,Car,7,December,ThreeStars,PC Hotel
+Rani-bagh,921,Skiing,1472,3,Hyderabad,Car,7,January,ThreeStars,PC Hotel
+lalQila,922,Recreation,1257,4,mirpurkhas,Car,7,February,ThreeStars,PC Hotel
+Moen-jo-daro,923,Skiing,1178,2,larkana,Car,7,March,ThreeStars,PC Hotel
+food places,924,Active,1257,4,nawabshah,Car,7,February,ThreeStars,PC Hotel
+Mazar-e-Quid,925,Skiing,1338,2,Karachi,Car,7,December,ThreeStars,PC Hotel
+Rani-bagh,926,Recreation,1235,3,Hyderabad,Car,7,January,ThreeStars,PC Hotel
+Badshahi Mosque,927,Active,1482,4,Lahore,Car,7,February,ThreeStars,PC Hotel
+Umer-Marvi fort,928,Recreation,838,2,Umerkot,Car,14,March,ThreeStars,PC Hotel
+Cultural Heritage,929,Recreation,1472,3,Badin,Car,7,February,ThreeStars,PC Hotel
+Mazar-e-Quid,930,Skiing,604,2,Karachi,Car,14,December,ThreeStars,PC Hotel
+Rani-bagh,931,Recreation,1782,4,Hyderabad,Car,7,January,ThreeStars,PC Hotel
+Badshahi Mosque,932,Active,2935,3,Lahore,Car,14,January,ThreeStars,PC Hotel
+Monal,933,Recreation,838,2,Islamabad,Car,7,March,ThreeStars,PC Hotel
+Hanna Lake,934,Recreation,1257,4,Quetta,Car,7,February,ThreeStars,PC Hotel
+food places,935,Recreation,559,6,nawabshah,Car,7,December,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,936,Recreation,549,7,dadu,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Other,937,Active,1098,5,Other,Car,14,March,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,938,Active,549,6,kashmir,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,939,Skiing,549,4,Umerkot,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,940,Recreation,2128,2,dadu,Car,7,December,ThreeStars,PC Hotel
+Other,941,Recreation,1910,3,Other,Car,7,January,ThreeStars,PC Hotel
+Muzzaferabad,942,Wandering,1648,2,kashmir,Car,7,February,ThreeStars,PC Hotel
+Umer-Marvi fort,943,Skiing,2007,4,Umerkot,Car,7,March,ThreeStars,PC Hotel
+Cultural Heritage,944,Recreation,2368,2,Badin,Car,10,December,ThreeStars,PC Hotel
+Rani-bagh,945,Recreation,1485,3,Hyderabad,Car,7,January,ThreeStars,PC Hotel
+lalQila,946,Wandering,1298,2,mirpurkhas,Car,7,February,ThreeStars,PC Hotel
+Moen-jo-daro,947,Active,1782,4,larkana,Car,7,March,ThreeStars,PC Hotel
+food places,948,Recreation,2007,4,nawabshah,Car,7,December,TwoStars,Wandering Hotel
+Mazar-e-Quid,949,Wandering,1168,2,Karachi,Car,14,January,TwoStars,Wandering Hotel
+Rani-bagh,950,Skiing,1460,3,Hyderabad,Car,7,February,TwoStars,Wandering Hotel
+Badshahi Mosque,951,Recreation,1522,3,Lahore,Car,7,December,TwoStars,Wandering Hotel
+Umer-Marvi fort,952,Recreation,1482,4,Umerkot,Car,7,January,TwoStars,Wandering Hotel
+Cultural Heritage,953,Skiing,1235,3,Badin,Car,7,February,TwoStars,Wandering Hotel
+Mazar-e-Quid,954,Wandering,599,3,Karachi,Car,14,November,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,955,Recreation,679,5,Hyderabad,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,956,Recreation,419,2,Lahore,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Monal,957,Wandering,1114,4,Islamabad,Car,10,December,HolidayFlat,Mini-Budget Hotel
+Hanna Lake,958,Skiing,324,3,Quetta,Car,7,December,HolidayFlat,Mini-Budget Hotel
+food places,959,Skiing,499,6,nawabshah,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,960,Wandering,1227,4,dadu,Car,7,December,TwoStars,Wandering Hotel
+Other,961,Active,748,2,Other,Car,7,January,TwoStars,Wandering Hotel
+Muzzaferabad,962,Skiing,1735,3,kashmir,Car,7,February,FourStars,Move n pick Hotel
+Cultural Heritage,963,Wandering,2768,2,Badin,Car,14,March,FourStars,Move n pick Hotel
+Rani-bagh,964,Recreation,1737,4,Hyderabad,Car,7,February,ThreeStars,PC Hotel
+lalQila,965,Wandering,818,2,mirpurkhas,Car,7,January,ThreeStars,PC Hotel
+Moen-jo-daro,966,Recreation,2322,3,larkana,Car,10,December,ThreeStars,PC Hotel
+food places,967,Skiing,1158,2,nawabshah,Car,7,February,ThreeStars,PC Hotel
+Mazar-e-Quid,968,Active,1008,2,Karachi,Car,7,January,ThreeStars,PC Hotel
+Rani-bagh,969,Recreation,1260,3,Hyderabad,Car,14,February,ThreeStars,PC Hotel
+Badshahi Mosque,970,Wandering,1257,4,Lahore,Car,7,March,TwoStars,Wandering Hotel
+Umer-Marvi fort,971,Skiing,838,2,Umerkot,Car,7,February,TwoStars,Wandering Hotel
+Cultural Heritage,972,Recreation,897,3,Badin,Car,7,January,TwoStars,Wandering Hotel
+Mazar-e-Quid,973,Wandering,688,2,Karachi,Car,6,December,TwoStars,Wandering Hotel
+Rani-bagh,974,Active,454,4,Hyderabad,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,975,Active,514,6,Lahore,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,976,Recreation,459,2,Umerkot,Car,7,March,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,977,Recreation,1068,4,Badin,Car,14,February,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,978,Skiing,549,6,Karachi,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,979,Recreation,679,2,Hyderabad,Car,7,December,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,980,Recreation,599,4,Lahore,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Monal,981,Skiing,464,3,Islamabad,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Hanna Lake,982,Wandering,1033,5,Quetta,Car,14,March,HolidayFlat,Mini-Budget Hotel
+food places,983,Recreation,989,4,nawabshah,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,984,Wandering,839,6,dadu,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Other,985,Wandering,1672,3,Other,Car,7,December,ThreeStars,PC Hotel
+Muzzaferabad,986,Recreation,1178,2,kashmir,Car,7,January,ThreeStars,PC Hotel
+Cultural Heritage,987,Active,4092,4,Badin,Car,14,February,ThreeStars,PC Hotel
+Rani-bagh,988,Wandering,1368,2,Hyderabad,Car,7,March,ThreeStars,PC Hotel
+lalQila,989,Wandering,1104,3,mirpurkhas,Car,7,February,TwoStars,Wandering Hotel
+Moen-jo-daro,990,Skiing,883,2,larkana,Car,7,January,TwoStars,Wandering Hotel
+food places,991,Recreation,688,2,nawabshah,Car,7,December,ThreeStars,PC Hotel
+Mazar-e-Quid,992,Wandering,1773,3,Karachi,Car,14,November,ThreeStars,PC Hotel
+Rani-bagh,993,Wandering,1138,2,Hyderabad,Car,7,January,FourStars,Move n pick Hotel
+Badshahi Mosque,994,Recreation,1647,3,Lahore,Car,7,March,FourStars,Move n pick Hotel
+Umer-Marvi fort,995,Skiing,1977,4,Umerkot,Car,7,February,FourStars,Move n pick Hotel
+Cultural Heritage,996,Wandering,1294,2,Badin,Car,14,January,TwoStars,Wandering Hotel
+Mazar-e-Quid,997,Recreation,785,3,Karachi,Car,7,December,TwoStars,Wandering Hotel
+Rani-bagh,998,Active,987,4,Hyderabad,Car,7,February,TwoStars,Wandering Hotel
+Badshahi Mosque,999,Wandering,598,2,Lahore,Car,7,March,TwoStars,Wandering Hotel
+Monal,1000,Wandering,389,3,Islamabad,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,1001,Wandering,389,4,Karachi,Car,7,March,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,1002,Recreation,389,3,Hyderabad,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,1003,Active,924,4,Lahore,Car,9,December,HolidayFlat,Mini-Budget Hotel
+Monal,1004,Skiing,389,4,Islamabad,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Hanna Lake,1005,Wandering,855,4,Quetta,Car,14,March,HolidayFlat,Mini-Budget Hotel
+Bala Hashir Fort,1006,Wandering,483,4,peshawer,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Hikin Places,1007,Recreation,774,4,gilgit,Car,9,December,HolidayFlat,Mini-Budget Hotel
+cultral places,1008,Active,483,3,sanghar,Car,7,January,HolidayFlat,Mini-Budget Hotel
+lalQila,1009,Skiing,483,4,mirpurkhas,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Moen-jo-daro,1010,Active,624,4,larkana,Car,7,December,HolidayFlat,Mini-Budget Hotel
+food places,1011,Skiing,624,4,nawabshah,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Gorakh Hill,1012,Recreation,1624,5,dadu,Car,7,February,HolidayFlat,Mini-Budget Hotel
+naltar valley,1013,Active,844,4,hunza,Car,7,March,HolidayFlat,Mini-Budget Hotel
+clothing market,1014,Skiing,1654,5,faisalabad,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Fort Kohra Qasim,1015,Recreation,824,6,Multan,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Army Vehicles Exhibition,1016,Active,764,4,Sialkot,Car,7,December,HolidayFlat,Mini-Budget Hotel
+Muzzaferabad,1017,Skiing,3368,5,kashmir,Car,14,January,HolidayFlat,Mini-Budget Hotel
+Umer-Marvi fort,1018,Recreation,1014,4,Umerkot,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Cultural Heritage,1019,Active,1339,4,Badin,Car,7,March,HolidayFlat,Mini-Budget Hotel
+Mazar-e-Quid,1020,Skiing,1094,5,Karachi,Car,7,February,HolidayFlat,Mini-Budget Hotel
+Rani-bagh,1021,Recreation,1728,6,Hyderabad,Car,14,January,HolidayFlat,Mini-Budget Hotel
+Badshahi Mosque,1022,Active,589,4,Lahore,Car,7,December,HolidayFlat,Mini-Budget Hotel
+Monal,1023,Skiing,589,4,Islamabad,Car,7,January,HolidayFlat,Mini-Budget Hotel
+Hanna Lake,1024,Recreation,1574,4,Quetta,Car,7,February,HolidayFlat,Mini-Budget Hotel
