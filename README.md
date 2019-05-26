@@ -1,5 +1,5 @@
 # TourismApp
-FYP Fall 2018: Tourism Recommendation System
+FYP Fall 2018: Safr (Tourism Recommendation System)
 
 Code has been made on R. This code computes similiarity matrix and outputs a list of five recommended places. User has 2 options:
 1. If the user knows their categories of interests, transportation, budget, month of travelling, they can use the first option, input their preferences and get recommendations based on their preferences.
